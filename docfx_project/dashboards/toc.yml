@@ -58,11 +58,24 @@
     - name: Hoe kan ik gegevens van mijn Leveranciers inzien/aanpassen?
       href: ond4.md     
     - name: Waar is de Catalogusbrowser?
-      href: ond5.md     
-
-
-
-  
+      href: ond5.md    
+- name: Service Dashboard
+  href: servicedash.md
+  items:
+  - name: FAQ / guides
+    items:
+    - name: Hoe maak ik een nieuwe werkbon aan? 
+      href: ser1.md      
+    - name: Hoe verwerk ik mijn nog openstaande werkbonnen?
+      href: ser2.md    
+    - name: Hoe kan ik mijn vorige werkbonnen inzien? 
+      href: ser3.md     
+    - name: Hoe kan ik mijn urenrapport inzien en downloaden? 
+      href: ser4.md     
+    - name: Hoe importeer/exporteer ik werkbonnen?
+      href: ser5.md   
+    - name: Hoe verwijder ik werkbonnen?
+      href: ser6.md
 - name: Financieel Dashboard
   href: financieeldash.md
   items:
