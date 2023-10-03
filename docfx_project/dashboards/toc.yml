@@ -83,3 +83,79 @@
     items:
     - name: Hoe maak ik een nieuwe journaalpost aan? 
       href: fin1.md
+    - name: Hoe kan ik mijn vorige journaalposten inzien? 
+      href: fin2.md 
+    - name: Hoe kan ik mijn journaalposten wijzigen?
+      href: fin3.md
+    - name: Hoe verwijder ik journaalposten?
+      href: fin4.md
+    - name: Hoe exporteer ik journaalposten?
+      href: fin5.md
+    - name: Hoe exporteer ik grootboekmutaties?
+      href: fin6.md
+    - name: Hoe maak ik een nieuwe kasboeking aan? 
+      href: fin7.md
+    - name: Hoe exporteer ik journaalposten?
+      href: fin8.md
+    - name: Hoe download ik een rapport?
+      href: fin9.md
+    - name: Hoe maak ik een BTW-aangifte aan?
+      href: fin10.md
+    - name: Hoe exporteer ik mijn BTW-aangiftes?
+      href: fin11.md
+    - name: Hoe gebruik ik de Klarna bankintegratie? 
+      href: fin12.md
+    - name: Hoe wijzig ik een transactie?
+      href: fin13.md
+    - name: Hoe importeer ik transacties? 
+      href: fin15.md
+    - name: Hoe wijzig ik mijn bankrekening? 
+      href: fin16.md
+- name: Debiteuren Dashboard
+  href: debdash.md
+  items:
+  - name: FAQ / guides
+    items:
+    - name: Hoe voeg ik een debiteur toe? 
+      href: deb1.md
+    - name: Hoe verwijder ik een debiteur?
+      href: deb2.md 
+    - name: Wat betekent het blokkeren van een factuur?
+      href: deb3.md
+    - name: Hoe kan ik mijn geblokkeerde facturen inzien?
+      href: deb4.md
+    - name: Hoe blokkeer ik mijn facture?
+      href: deb5.md
+    - name: Hoe kan ik mijn verkoopfactuur historie inzien?
+      href: deb6.md
+    - name: Hoe kan ik mijn openpostenlijst downloaden? (Debiteur)
+      href: deb7.md
+    - name: Hoe kan ik mijn debiteurs de nog te verzenden facturen versturen?
+      href: deb8.md
+    - name: Hoe kan ik mijn debiteurs een betaalherinnering sturen?
+      href: deb9.md
+- name: Crediteuren Dashboard
+  href: credash.md
+  items:
+  - name: FAQ / guides
+    items:
+    - name: Waar kan ik mijn inkoopfacturen zien?
+      href: cre1.md
+    - name: Hoe maak ik een inkoopfactuur aan?
+      href: cre2.md
+    - name: Hoe keur ik een inkoopfactuur goed?
+      href: cre3.md
+    - name: Hoe keur ik een inkoopfactuur af? / Hoe wijzig ik een inkoopfactuur?
+      href: cre4.md
+    - name: Waar kan ik mijn openstaande inkoopfacturen zien? (Deze zijn dus goedgekeurd)
+      href: cre5.md
+    - name: Waar kan ik al mijn facturen zien?
+      href: cre6.md
+    - name: Hoe maak ik betaalbestanden voor batches aan?
+      href: cre7.md
+    - name: Hoe keur ik betaalbatches goed?
+      href: cre8.md
+    - name: Waar kan ik mijn betaalbatches historie inzien?
+      href: cre9.md
+    - name: Hoe kan ik mijn openpostenlijst downloaden? (Crediteur)
+      href: cre10.md
