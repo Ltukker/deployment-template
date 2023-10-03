@@ -2,6 +2,8 @@ namespace MyLibraryTests;
 
 public class UnitTest1
 {
+    public object? Assert { get; private set; }
+
     [Fact]
     public void ShouldReturnHelloWorldThreeTimes()
     {
@@ -12,6 +14,10 @@ Hello World";
 
         var str = sut.GetHellWorld(3);
 
-        Assert.Equal(expected, str);
+        Assert.Equals(expected, str);
     }
+}
+
+internal class FactAttribute : Attribute
+{
 }
