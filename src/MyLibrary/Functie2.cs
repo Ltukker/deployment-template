@@ -1,23 +1,16 @@
-namespace MyLibraryTests;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
 
-public class UnitTest1
+namespace Rextester
 {
-    public object? Assert { get; private set; }
-
-    [Fact]
-    public void ShouldReturnHelloWorldThreeTimes()
+    public class Program
     {
-        const string expected = @"Hello World
-Hello World
-Hello World";
-        var sut = new HelloWorldPrinter();
-
-        var str = sut.GetHellWorld(3);
-
-        Assert.Equals(expected, str);
+        public static void Main(string[] args)
+        {
+            //Your code goes here
+            Console.WriteLine("Hello, world!");
+        }
     }
-}
-
-internal class FactAttribute : Attribute
-{
 }
