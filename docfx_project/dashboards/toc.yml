@@ -1,0 +1,72 @@
+
+- name: Home Dashboard
+  href: homedash.md
+  items:
+  - name: FAQ / guides
+    items:
+    - name: Waar vind ik mijn instellingen?
+      href: home1.md
+    - name: Hoe navigeer ik naar een ander dashboard?
+      href: home2.md
+- name: Management Dashboard
+  href: managementdash.md
+  items:
+  - name: FAQ
+- name: CRM Dashboard
+  href: crmdash.md
+  items:
+  - name: FAQ / guides
+    items:
+    - name: Hoe voeg ik een nieuwe relatie toe?
+      href: crm1.md
+    - name: Hoe verwijder ik een bestaande ‘relatie’?
+      href: crm2.md
+    - name: Hoe exporteer ik mijn 'relaties'?
+      href: crm3.md
+    - name: Hoe importeer ik mijn relaties?
+      href: crm4.md
+    - name: Hoe voeg ik een tweede adres toe aan mijn relatie?
+      href: crm5.md
+    - name: Hoe voeg ik een (contact)persoon toe aan mijn relatie?
+      href: crm6.md
+    - name: Hoe stel ik mijn communicatie voorkeuren in?
+      href: crm7.md
+    - name: Hoe kan ik gegevens van mijn klant inzien/aanpassen?
+      href: crm8.md
+- name: Orders Dashboard
+  href: ordersdash.md
+  items:
+  - name: FAQ / guides
+    items:
+    - name: Hoe maak ik een nieuwe verkooporder aan? 
+      href: ord1.md
+    - name: Hoe verwerk ik mijn nog openstaande verkooporders?
+      href: ord2.md
+    - name: Hoe kan ik mijn vorige verkooporders inzien? 
+      href: ord3.md
+- name: Onderdelen Dashboard
+  href: onderdelendash.md
+  items:
+  - name: FAQ / guides
+    items:
+    - name: Hoe voeg ik een nieuw artikel toe aan mijn onderdelen? 
+      href: ond1.md      
+    - name: Hoe kan ik gegevens van mijn artikelen inzien/aanpassen? 
+      href: ond2.md    
+    - name: Hoe voeg ik een nieuwe Leverancier toe aan mijn onderdelen/catalogus? 
+      href: ond3.md     
+    - name: Hoe kan ik gegevens van mijn Leveranciers inzien/aanpassen?
+      href: ond4.md     
+    - name: Waar is de Catalogusbrowser?
+      href: ond5.md     
+
+
+
+  
+- name: Financieel Dashboard
+  href: financieeldash.md
+  items:
+  - name: FAQ / guides
+    items:
+    - name: Hoe maak ik een nieuwe journaalpost aan? 
+      href: fin1.md
