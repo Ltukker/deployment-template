@@ -1,161 +1,301 @@
 
 - name: Home Dashboard
-  href: homedash.md
+  href: home/homedash.md
   items:
   - name: FAQ / guides
     items:
     - name: Waar vind ik mijn instellingen?
-      href: home1.md
+      href: home/home1.md
     - name: Hoe navigeer ik naar een ander dashboard?
-      href: home2.md
+      href: home/home2.md
 - name: Management Dashboard
-  href: managementdash.md
-  items:
-  - name: FAQ
+  href: management/managementdash.md
+
 - name: CRM Dashboard
-  href: crmdash.md
+  href: crm/crmdash.md
   items:
   - name: FAQ / guides
     items:
     - name: Hoe voeg ik een nieuwe relatie toe?
-      href: crm1.md
+      href: crm/crm1.md
     - name: Hoe verwijder ik een bestaande ‘relatie’?
-      href: crm2.md
+      href: crm/crm2.md
     - name: Hoe exporteer ik mijn 'relaties'?
-      href: crm3.md
+      href: crm/crm3.md
     - name: Hoe importeer ik mijn relaties?
-      href: crm4.md
+      href: crm/crm4.md
     - name: Hoe voeg ik een tweede adres toe aan mijn relatie?
-      href: crm5.md
+      href: crm/crm5.md
     - name: Hoe voeg ik een (contact)persoon toe aan mijn relatie?
-      href: crm6.md
+      href: crm/crm6.md
     - name: Hoe stel ik mijn communicatie voorkeuren in?
-      href: crm7.md
+      href: crm/crm7.md
     - name: Hoe kan ik gegevens van mijn klant inzien/aanpassen?
-      href: crm8.md
+      href: crm/crm8.md
 - name: Orders Dashboard
-  href: ordersdash.md
+  href: orders/ordersdash.md
   items:
   - name: FAQ / guides
     items:
     - name: Hoe maak ik een nieuwe verkooporder aan? 
-      href: ord1.md
+      href: orders/ord1.md
     - name: Hoe verwerk ik mijn nog openstaande verkooporders?
-      href: ord2.md
+      href: orders/ord2.md
     - name: Hoe kan ik mijn vorige verkooporders inzien? 
-      href: ord3.md
+      href: orders/ord3.md
 - name: Onderdelen Dashboard
-  href: onderdelendash.md
+  href: onderdelen/onderdelendash.md
   items:
   - name: FAQ / guides
     items:
     - name: Hoe voeg ik een nieuw artikel toe aan mijn onderdelen? 
-      href: ond1.md      
+      href: onderdelen/ond1.md      
     - name: Hoe kan ik gegevens van mijn artikelen inzien/aanpassen? 
-      href: ond2.md    
+      href: onderdelen/ond2.md    
     - name: Hoe voeg ik een nieuwe Leverancier toe aan mijn onderdelen/catalogus? 
-      href: ond3.md     
+      href: onderdelen/ond3.md     
     - name: Hoe kan ik gegevens van mijn Leveranciers inzien/aanpassen?
-      href: ond4.md     
+      href: onderdelen/ond4.md     
     - name: Waar is de Catalogusbrowser?
-      href: ond5.md    
+      href: onderdelen/ond5.md    
 - name: Service Dashboard
-  href: servicedash.md
+  href: service/servicedash.md
   items:
   - name: FAQ / guides
     items:
     - name: Hoe maak ik een nieuwe werkbon aan? 
-      href: ser1.md      
+      href: service/ser1.md      
     - name: Hoe verwerk ik mijn nog openstaande werkbonnen?
-      href: ser2.md    
+      href: service/ser2.md    
     - name: Hoe kan ik mijn vorige werkbonnen inzien? 
-      href: ser3.md     
+      href: service/ser3.md     
     - name: Hoe kan ik mijn urenrapport inzien en downloaden? 
-      href: ser4.md     
+      href: service/ser4.md     
     - name: Hoe importeer/exporteer ik werkbonnen?
-      href: ser5.md   
+      href: service/ser5.md   
     - name: Hoe verwijder ik werkbonnen?
-      href: ser6.md
+      href: service/ser6.md
 - name: Financieel Dashboard
-  href: financieeldash.md
+  href: financieel/financieeldash.md
   items:
   - name: FAQ / guides
     items:
     - name: Hoe maak ik een nieuwe journaalpost aan? 
-      href: fin1.md
+      href: financieel/fin1.md
     - name: Hoe kan ik mijn vorige journaalposten inzien? 
-      href: fin2.md 
+      href: financieel/fin2.md 
     - name: Hoe kan ik mijn journaalposten wijzigen?
-      href: fin3.md
+      href: financieel/fin3.md
     - name: Hoe verwijder ik journaalposten?
-      href: fin4.md
+      href: financieel/fin4.md
     - name: Hoe exporteer ik journaalposten?
-      href: fin5.md
+      href: financieel/fin5.md
     - name: Hoe exporteer ik grootboekmutaties?
-      href: fin6.md
+      href: financieel/fin6.md
     - name: Hoe maak ik een nieuwe kasboeking aan? 
-      href: fin7.md
+      href: financieel/fin7.md
     - name: Hoe exporteer ik journaalposten?
-      href: fin8.md
+      href: financieel/fin8.md
     - name: Hoe download ik een rapport?
-      href: fin9.md
+      href: financieel/fin9.md
     - name: Hoe maak ik een BTW-aangifte aan?
-      href: fin10.md
+      href: financieel/fin10.md
     - name: Hoe exporteer ik mijn BTW-aangiftes?
-      href: fin11.md
+      href: financieel/fin11.md
     - name: Hoe gebruik ik de Klarna bankintegratie? 
-      href: fin12.md
+      href: financieel/fin12.md
     - name: Hoe wijzig ik een transactie?
-      href: fin13.md
+      href: financieel/fin13.md
     - name: Hoe importeer ik transacties? 
-      href: fin15.md
+      href: financieel/fin15.md
     - name: Hoe wijzig ik mijn bankrekening? 
-      href: fin16.md
+      href: financieel/fin16.md
 - name: Debiteuren Dashboard
-  href: debdash.md
+  href: debiteur/debdash.md
   items:
   - name: FAQ / guides
     items:
     - name: Hoe voeg ik een debiteur toe? 
-      href: deb1.md
+      href: debiteur/deb1.md
     - name: Hoe verwijder ik een debiteur?
-      href: deb2.md 
+      href: debiteur/deb2.md 
     - name: Wat betekent het blokkeren van een factuur?
-      href: deb3.md
+      href: debiteur/deb3.md
     - name: Hoe kan ik mijn geblokkeerde facturen inzien?
-      href: deb4.md
+      href: debiteur/deb4.md
     - name: Hoe blokkeer ik mijn facture?
-      href: deb5.md
+      href: debiteur/deb5.md
     - name: Hoe kan ik mijn verkoopfactuur historie inzien?
-      href: deb6.md
+      href: debiteur/deb6.md
     - name: Hoe kan ik mijn openpostenlijst downloaden? (Debiteur)
-      href: deb7.md
+      href: debiteur/deb7.md
     - name: Hoe kan ik mijn debiteurs de nog te verzenden facturen versturen?
-      href: deb8.md
+      href: debiteur/deb8.md
     - name: Hoe kan ik mijn debiteurs een betaalherinnering sturen?
-      href: deb9.md
+      href: debiteur/deb9.md
 - name: Crediteuren Dashboard
-  href: credash.md
+  href: crediteur/credash.md
   items:
   - name: FAQ / guides
     items:
     - name: Waar kan ik mijn inkoopfacturen zien?
-      href: cre1.md
+      href: crediteur/cre1.md
     - name: Hoe maak ik een inkoopfactuur aan?
-      href: cre2.md
+      href: crediteur/cre2.md
     - name: Hoe keur ik een inkoopfactuur goed?
-      href: cre3.md
+      href: crediteur/cre3.md
     - name: Hoe keur ik een inkoopfactuur af? / Hoe wijzig ik een inkoopfactuur?
-      href: cre4.md
+      href: crediteur/cre4.md
     - name: Waar kan ik mijn openstaande inkoopfacturen zien? (Deze zijn dus goedgekeurd)
-      href: cre5.md
+      href: crediteur/cre5.md
     - name: Waar kan ik al mijn facturen zien?
-      href: cre6.md
+      href: crediteur/cre6.md
     - name: Hoe maak ik betaalbestanden voor batches aan?
-      href: cre7.md
+      href: crediteur/cre7.md
     - name: Hoe keur ik betaalbatches goed?
-      href: cre8.md
+      href: crediteur/cre8.md
     - name: Waar kan ik mijn betaalbatches historie inzien?
-      href: cre9.md
+      href: crediteur/cre9.md
     - name: Hoe kan ik mijn openpostenlijst downloaden? (Crediteur)
-      href: cre10.md
+      href: crediteur/cre10.md
+- name: Crediteuren Dashboard
+  href: crediteur/credash.md
+  items:
+  - name: FAQ / guides
+    items:
+    - name: Waar kan ik mijn inkoopfacturen zien?
+      href: crediteur/cre1.md
+    - name: Hoe maak ik een inkoopfactuur aan?
+      href: crediteur/cre2.md
+    - name: Hoe keur ik een inkoopfactuur goed?
+      href: crediteur/cre3.md
+    - name: Hoe keur ik een inkoopfactuur af? / Hoe wijzig ik een inkoopfactuur?
+      href: crediteur/cre4.md
+    - name: Waar kan ik mijn openstaande inkoopfacturen zien? (Deze zijn dus goedgekeurd)
+      href: crediteur/cre5.md
+    - name: Waar kan ik al mijn facturen zien?
+      href: crediteur/cre6.md
+    - name: Hoe maak ik betaalbestanden voor batches aan?
+      href: crediteur/cre7.md
+    - name: Hoe keur ik betaalbatches goed?
+      href: crediteur/cre8.md
+    - name: Waar kan ik mijn betaalbatches historie inzien?
+      href: crediteur/cre9.md
+    - name: Hoe kan ik mijn openpostenlijst downloaden? (Crediteur)
+      href: crediteur/cre10.md
+- name: Configuratie Dashboard
+  items:
+    - name: Relaties
+      items: 
+      - name: Kenmerken
+        items:
+        - name: Hoe voeg ik een relatiekenmerk toe?
+          href: configuratie/relaties/relken1.md
+        - name: Hoe wijzig ik een relatiekenmerk?
+          href: configuratie/relaties/relken2.md
+        - name: Hoe verwijder ik een relatiekenmerk?
+          href: configuratie/relaties/relken3.md
+    - name: Artikelen
+      items: 
+      - name: Omzetgroepen
+        items:
+        - name: deel 1
+        - name: deel 2
+        - name: deel 3
+        - name: deel 4
+      - name: Kenmerken
+        items:
+        - name: deel 1
+        - name: deel 2
+      - name: Catalogi
+        items:
+        - name: deel 1
+        - name: deel 2
+    - name: Werkbonnen
+      items: 
+      - name: Werktypes
+        items:
+        - name: deel 1
+        - name: deel 2    
+    - name: Serviceobjecten
+      items: 
+      - name: Kenmerken
+        items:
+        - name: deel 1
+        - name: deel 2    
+    - name: Algemeen
+      items: 
+      - name: Werknemers
+        items:
+        - name: deel 1
+        - name: deel 2    
+    - name: Financieel
+      items: 
+      - name: Bankrekeningen
+        items:
+        - name: deel 1
+        - name: deel 2   
+      - name: Grootboekrekeningen
+        items:
+        - name: deel 1
+        - name: deel 2   
+      - name: Beginbalansen
+        items:
+        - name: deel 1
+        - name: deel 2   
+      - name: Kasrekeningen
+        items:
+        - name: deel 1
+        - name: deel 2   
+      - name: Transactieherkenning
+        items:
+        - name: deel 1
+        - name: deel 2   
+      - name: Auditfile export
+        items:
+        - name: deel 1
+        - name: deel 2
+      - name: Betaalherinnering-urgentie
+        items:
+        - name: deel 1
+        - name: deel 2   
+    - name: Configuratie
+      items: 
+      - name: Nummerreeksen
+        items:
+        - name: deel 1
+        - name: deel 2   
+      - name: Instellingen
+        items:
+        - name: deel 1
+        - name: deel 2   
+      - name: Mailinstellingen
+        items:
+        - name: deel 1
+        - name: deel 2   
+      - name: Tags
+        items:
+        - name: deel 1
+        - name: deel 2   
+      - name: Layouts
+        items:
+        - name: deel 1
+        - name: deel 2   
+      - name: Gebruikers
+        items:
+        - name: deel 1
+        - name: deel 2
+      - name: Import-documentatie
+        items:
+        - name: deel 1
+        - name: deel 2   
+   
+
+
+
+        
+        
+
+
+
+          
