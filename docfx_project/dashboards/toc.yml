@@ -199,30 +199,43 @@
       items: 
       - name: Omzetgroepen
         items:
-        - name: deel 1
-        - name: deel 2
-        - name: deel 3
-        - name: deel 4
+        - name: Hoe voeg ik een omzetgroep toe?
+          href: configuratie/artikelen/artomz1.md
+        - name: Hoe verwijder ik een omzetgroep?
+          href: configuratie/artikelen/artomz2.md
+        - name: Hoe wijzig ik een omzetgroep?
+          href: configuratie/artikelen/artomz3.md
+        - name: Hoe exporteer ik mijn omzetgroepen?
+          href: configuratie/artikelen/artomz4.md
       - name: Kenmerken
         items:
-        - name: deel 1
-        - name: deel 2
+        - name: Hoe voeg ik een artikelkenmerk toe?
+          href: configuratie/artikelen/artken1.md
+        - name: Hoe wijzig ik een artikelkenmerk?
+          href: configuratie/artikelen/artken2.md
+        - name: Hoe verwijder ik een artikelkenmerk?
+          href: configuratie/artikelen/artken3.md
       - name: Catalogi
-        items:
-        - name: deel 1
-        - name: deel 2
     - name: Werkbonnen
       items: 
       - name: Werktypes
         items:
-        - name: deel 1
-        - name: deel 2    
+        - name: Hoe maak ik een nieuw werktype aan?
+          href: configuratie/Werkbonnen/wertyp1.md
+        - name: Hoe wijzig ik een nieuw werktype?
+          href: configuratie/Werkbonnen/wertyp2.md
+        - name: Hoe verwijder ik een werktype?
+          href: configuratie/Werkbonnen/wertyp3.md
     - name: Serviceobjecten
       items: 
       - name: Kenmerken
         items:
-        - name: deel 1
-        - name: deel 2    
+        - name: Hoe voeg ik een serviceobject kenmerk toe?
+          href: configuratie/serviceobjecten/serken1.md
+        - name: Hoe wijzig ik een serviceobject kenmerk? 
+          href: configuratie/serviceobjecten/serken2.md  
+        - name: Hoe verwijder ik een serviceobject kenmerk?
+          href: configuratie/serviceobjecten/serken3.md  
     - name: Algemeen
       items: 
       - name: Werknemers
