@@ -240,68 +240,163 @@
       items: 
       - name: Werknemers
         items:
-        - name: deel 1
-        - name: deel 2    
+        - name: Hoe voeg ik een werknemer toe?
+          href: configuratie/algemeen/algwer1.md
+        - name: Hoe wijzig ik een werknemer zijn gegevens?
+          href: configuratie/algemeen/algwer2.md
+        - name: Hoe verwijder ik een werknemer?
+          href: configuratie/algemeen/algwer3.md
+        - name: Hoe exporteer ik mijn werknemers?
+          href: configuratie/algemeen/algwer4.md
+        - name: Hoe maak ik een nieuwe functie aan?
+        - name: Hoe wijzig ik een functie?
+        - name: Hoe verwijder ik een functie? 
     - name: Financieel
       items: 
       - name: Bankrekeningen
         items:
-        - name: deel 1
-        - name: deel 2   
+        - name: Hoe voeg ik een bankrekening toe?
+          href: configuratie/financieel/finban1.md
+        - name: Hoe wijzig ik een bankrekening?
+          href: configuratie/financieel/finban2.md
+        - name: Hoe verwijder ik een bankrekening?
+          href: configuratie/financieel/finban3.md
+        - name: Hoe exporteer ik een bankrekening?
+          href: configuratie/financieel/finban4.md
       - name: Grootboekrekeningen
         items:
-        - name: deel 1
-        - name: deel 2   
+        - name: Hoe voeg ik een grootboekrekening toe?
+          href: configuratie/financieel/fingro1.md
+        - name: Hoe wijzig ik een grootboekrekening?
+          href: configuratie/financieel/fingro2.md
+        - name: Hoe verwijder ik een grootboekrekening?
+          href: configuratie/financieel/fingro3.md
+        - name: Hoe exporteer ik een grootboekrekening?
+          href: configuratie/financieel/fingro4.md
+        - name: Hoe importeer ik een grootboekrekening?
+          href: configuratie/financieel/fingro5.md
       - name: Beginbalansen
         items:
-        - name: deel 1
-        - name: deel 2   
+        - name: Hoe voeg ik een beginbalans toe?
+          href: configuratie/financieel/finbeg1.md
+        - name: Hoe wijzig ik een beginbalans?
+          href: configuratie/financieel/finbeg2.md
+        - name: Hoe verwijder ik een beginbalans?
+          href: configuratie/financieel/finbeg3.md
+        - name: Hoe exporteer ik een beginbalans?
+          href: configuratie/financieel/finbeg4.md
+        - name: Hoe bekijk ik mijn financiële mutatie?
+          href: configuratie/financieel/finbeg5.md
       - name: Kasrekeningen
         items:
-        - name: deel 1
-        - name: deel 2   
+        - name: Hoe voeg ik een kasrekening toe?
+          href: configuratie/financieel/finkas1.md
+        - name: Hoe wijzig ik een kasrekening?
+          href: configuratie/financieel/finkas2.md
+        - name: Hoe wijzig ik de naam van een kasrekening? 
+          href: configuratie/financieel/finkas3.md
+        - name: Hoe verwijder ik een kasrekening?
+          href: configuratie/financieel/finkas4.md
+        - name: Hoe exporteer ik een kasrekening? 
+          href: configuratie/financieel/finkas5.md
       - name: Transactieherkenning
         items:
-        - name: deel 1
-        - name: deel 2   
+        - name: Waar zie ik mijn transactieherkenningen?
+          href: configuratie/financieel/fintra1.md
+        - name: Waar kan ik mijn transactieherkenningen verwijderen?
+          href: configuratie/financieel/fintra2.md
       - name: Auditfile export
         items:
-        - name: deel 1
-        - name: deel 2
+        - name: Hoe maak ik een auditfile?
+          href: configuratie/financieel/finaud1.md
+        - name: Hoe download ik een auditfile?
+          href: configuratie/financieel/finaud2.md
+        - name: Hoe exporteer ik een auditfile?
+          href: configuratie/financieel/finaud3.md
+        - name: Hoe verwijder ik een auditfile?
+          href: configuratie/financieel/finaud4.md
       - name: Betaalherinnering-urgentie
         items:
-        - name: deel 1
-        - name: deel 2   
+        - name: Hoe voeg ik een betaalherinnering-urgentie toe?
+          href: configuratie/financieel/finbet1.md
+        - name: Hoe verwijder ik een betaalherinnering-urgentie?
+          href: configuratie/financieel/finbet2.md
+        - name: Hoe wijzig ik een betaalherinnering-urgentie?
+          href: configuratie/financieel/finbet3.md
+        - name: Hoe wijzig ik de volgorde van een betaalherinnering-urgentie?
+          href: configuratie/financieel/finbet4.md
     - name: Configuratie
       items: 
       - name: Nummerreeksen
         items:
-        - name: deel 1
-        - name: deel 2   
+        - name: Hoe voeg ik nummerreeksen toe?
+          href: configuratie/configuratie2/connum1.md
+        - name: Hoe verwijder ik nummerreeksen? 
+          href: configuratie/configuratie2/connum2.md
+        - name: Hoe wijzig ik nummerreeksen?
+          href: configuratie/configuratie2/connum3.md
       - name: Instellingen
         items:
-        - name: deel 1
-        - name: deel 2   
+        - name: Hoe voeg ik een bedrijfslogo toe?
+          href: configuratie/configuratie2/conins1.md
+        - name: Hoe vervang of verwijder ik mijn bedrijfslogo?
+          href: configuratie/configuratie2/conins2.md
+        - name: Hoe pas ik de algemene gegevens/instellingen van mijn bedrijf aan?
+          href: configuratie/configuratie2/conins3.md
+        - name: Hoe pas ik de verkoop gegevens/instellingen van mijn bedrijf aan?
+          href: configuratie/configuratie2/conins4.md
+        - name: Hoe pas ik de inkoop gegevens/instellingen van mijn bedrijf aan?
+          href: configuratie/configuratie2/conins5.md
+        - name: Hoe pas ik de algemene financiële gegevens/instellingen van mijn bedrijf aan?
+          href: configuratie/configuratie2/conins6.md
+        - name: Hoe pas ik de BTW gegevens/instellingen van mijn bedrijf aan?
+          href: configuratie/configuratie2/conins7.md
+        - name: Hoe pas ik de betaalherinneringen gegevens/instellingen aan?
+          href: configuratie/configuratie2/conins8.md
+        - name: Hoe pas ik de serviceobjecten gegevens/instellingen aan?
+          href: configuratie/configuratie2/conins9.md
       - name: Mailinstellingen
         items:
-        - name: deel 1
-        - name: deel 2   
+        - name: Hoe voeg ik een mailadres toe?
+          href: configuratie/configuratie2/conmai1.md
+        - name: Hoe verwijder ik een mailadres?
+          href: configuratie/configuratie2/conmai2.md
+        - name: Hoe wijzig ik een mailadres?
+          href: configuratie/configuratie2/conmai3.md
+        - name: Hoe exporteer ik al mijn emailadressen?
+          href: configuratie/configuratie2/conmai4.md
       - name: Tags
         items:
-        - name: deel 1
-        - name: deel 2   
+        - name: Hoe kan ik een tag verwijderen?
+          href: configuratie/configuratie2/coninst1.md
+        - name: Hoe kan ik mijn tags inzien?
+          href: configuratie/configuratie2/coninst2.md
+        - name: Hoe kan ik een tag toevoegen?
+        - name: Hoe kan ik een tag wijzigen?
       - name: Layouts
         items:
-        - name: deel 1
-        - name: deel 2   
+        - name: Hoe pas ik de lay-out van mijn verkoopfactuur aan?
+          href: configuratie/configuratie2/conlay1.md
+        - name: Hoe pas ik de lay-out van mijn verkooporder aan?   
+          href: configuratie/configuratie2/conlay2.md
+        - name: Hoe pas ik de lay-out van mijn werkbon aan?
+          href: configuratie/configuratie2/conlay3.md
+        - name: Hoe pas ik de lay-out van mijn betaalherinnering aan?
+          href: configuratie/configuratie2/conlay4.md
       - name: Gebruikers
         items:
-        - name: deel 1
-        - name: deel 2
+        - name: Hoe kan ik mijn gebruikers inzien?
+          href: configuratie/configuratie2/congeb1.md
+        - name: Hoe kan ik een rol aan een gebruiker toewijzen?
+          href: configuratie/configuratie2/congeb2.md
+        - name: Hoe kan ik de rollen van mijn gebruikers wijzigen/ontkoppelen?
+          href: configuratie/configuratie2/congeb3.md
+        - name: Hoe kan ik mijn gebruikers exporteren?
+          href: configuratie/configuratie2/congeb4.md
       - name: Import-documentatie
         items:
-        - name: deel 1
-        - name: deel 2   
+        - name: Waar kan ik de import-documentatie zien? 
+          href: configuratie/configuratie2/conimport1.md
    
 
 
