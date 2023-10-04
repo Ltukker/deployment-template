@@ -27,7 +27,7 @@ jobs:
     - name: DocFX Build
       working-directory: docs
       run: docfx site\docfx.json
-      continue-on-error: true
+      continue-on-error: false
 
     - name: Publish
       if: github.event_name == 'push'
