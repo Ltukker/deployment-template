@@ -1,5 +1,6 @@
 - name: Dashboards
   href: dashboards/
 - name: Licenties
-- name: Import-documentatie
-- name: Instellingen
+  href: licenties/
+- name: Quick Launch
+  href: quicklaunch/qk1.md

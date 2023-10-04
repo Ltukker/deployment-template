@@ -1,0 +1,7 @@
+- name: Licenties
+  href: lic1.md
+  items:
+  - name: FAQ / guides
+    items:
+    - name: Hoe pas ik mijn licentie aan? 
+      href: lic2.md
