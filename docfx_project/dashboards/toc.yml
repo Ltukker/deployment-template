@@ -158,31 +158,6 @@
       href: crediteur/cre9.md
     - name: Hoe kan ik mijn openpostenlijst downloaden? (Crediteur)
       href: crediteur/cre10.md
-- name: Crediteuren Dashboard
-  href: crediteur/credash.md
-  items:
-  - name: FAQ / guides
-    items:
-    - name: Waar kan ik mijn inkoopfacturen zien?
-      href: crediteur/cre1.md
-    - name: Hoe maak ik een inkoopfactuur aan?
-      href: crediteur/cre2.md
-    - name: Hoe keur ik een inkoopfactuur goed?
-      href: crediteur/cre3.md
-    - name: Hoe keur ik een inkoopfactuur af? / Hoe wijzig ik een inkoopfactuur?
-      href: crediteur/cre4.md
-    - name: Waar kan ik mijn openstaande inkoopfacturen zien? (Deze zijn dus goedgekeurd)
-      href: crediteur/cre5.md
-    - name: Waar kan ik al mijn facturen zien?
-      href: crediteur/cre6.md
-    - name: Hoe maak ik betaalbestanden voor batches aan?
-      href: crediteur/cre7.md
-    - name: Hoe keur ik betaalbatches goed?
-      href: crediteur/cre8.md
-    - name: Waar kan ik mijn betaalbatches historie inzien?
-      href: crediteur/cre9.md
-    - name: Hoe kan ik mijn openpostenlijst downloaden? (Crediteur)
-      href: crediteur/cre10.md
 - name: Configuratie Dashboard
   items:
     - name: Relaties

@@ -48,6 +48,12 @@
           "articles/**/toc.yml",
           "dashboards/**.md",
           "dashboards/**/toc.yml",
+          "licenties/**.md",
+          "licenties/**/toc.yml",
+          "quicklaunch/**.md",
+          "quicklaunch/**/toc.yml",
+          "quick-start/**.md",
+          "quick-start/**/toc.yml",
           "toc.yml",
           "*.md"
         ]
