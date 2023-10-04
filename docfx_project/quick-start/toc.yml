@@ -1,2 +1,30 @@
 - name: Quick-start
   href: Quick-start.md
+  items:
+    - name: Hoe werkt de interface?
+      href: qs1.md
+    - name: Hoe werken de actiebuttons?
+      href: qs2.md
+    - name: De verschillende dashboards
+      href: qs3.md
+    - name: Snel Opstarten
+      href: qs4.md
+      items:
+        - name: Het beginnen met Powerall Online
+          href: qs4.md
+        - name: De Quick Launch
+          href: qs5.md
+        - name: De Instellingen
+          href: qs6.md
+        - name: Het importeren van gegevens
+          href: qs7.md
+        - name: Het toevoegen en integreren van de bankrekening
+          href: qs8.md
+        - name: Het aanmaken van de werkbon
+          href: qs9.md
+        - name: Het toevoegen van nieuwe klantenrelaties
+          href: qs10.md
+        - name: het aanmaken van een verkooporder en toevoegen artikel
+          href: qs11.md
+ 
+

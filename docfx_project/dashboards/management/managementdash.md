@@ -1,7 +1,7 @@
 ## Management Dashboard
 Deze pagina dient als overzicht rondom alle financiële zaken omtrent jouw bedrijf. 
 
-
+<img src="/images/afbeelding4.png" >
 Afbeelding 2: Managementdashboard
 
 
