@@ -1,7 +1,7 @@
 ## Service Dashboard
 Op het **Servicedashboard** krijg je een overzicht te zien van je openstaande werkbonnen, omzetontwikkeling, serviceobjecten en alles wat daarbij komt kijken. Je kunt hier nieuwe werkbonnen toevoegen en openstaande werkbonnen bekijken en beheren. Daarnaast kun jij ook jouw werkbon historie bekijken, serviceobjecten toevoegen en beheren. Eveneens kun jij ook direct bij jouw urenrapporten. Tot slot worden er ook nog eens financiële overzichten weergegeven.  
 
-
+<img src="/images/afbeelding8.png" >
 Afbeelding 6: servicedashboard
 
 
