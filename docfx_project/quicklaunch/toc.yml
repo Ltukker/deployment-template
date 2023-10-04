@@ -1,7 +1,2 @@
-- name: Licenties
+- name: Quick Launch
   href: qk1.md
-  items:
-  - name: FAQ / guides
-    items:
-    - name: vragen
-      href: qk2.md

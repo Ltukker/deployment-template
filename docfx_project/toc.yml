@@ -1,6 +1,8 @@
+- name: Quick-start Powerall Online
+  href: Quick-start/
 - name: Dashboards
   href: dashboards/
 - name: Licenties
-  href: licenties/
+  href: licenties/lic1.md
 - name: Quick Launch
   href: quicklaunch/qk1.md
