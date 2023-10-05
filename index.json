@@ -1,0 +1,817 @@
+{
+  "README.html": {
+    "href": "README.html",
+    "title": "Testdoc1 | Powerall.Online.Documentatie",
+    "keywords": "Testdoc1"
+  },
+  "dashboards/configuratie/Algemeen/algwer1.html": {
+    "href": "dashboards/configuratie/Algemeen/algwer1.html",
+    "title": "Hoe voeg ik een werknemer toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een werknemer toe? Navigeer naar het Configuratie dashboard. Druk op ‘Werknemers’ in het menu Algemeen. Druk op de knop ‘TOEVOEGEN’. Selecteer als bron alleen Serviceobject. Voer vervolgens alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de Naam."
+  },
+  "dashboards/configuratie/Algemeen/algwer2.html": {
+    "href": "dashboards/configuratie/Algemeen/algwer2.html",
+    "title": "Hoe wijzig ik een werknemer zijn gegevens? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik een werknemer zijn gegevens? Navigeer naar het Configuratie dashboard. Druk op ‘Werknemers’ in het menu Algemeen. Zoek een specifieke werknemer m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Druk op het potloodje rechts van je werknemer. Pas de gegevens aan. Druk na je wijzigingen op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Algemeen/algwer3.html": {
+    "href": "dashboards/configuratie/Algemeen/algwer3.html",
+    "title": "Hoe verwijder ik een werknemer? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een werknemer? Navigeer naar het Configuratie dashboard. Druk op ‘Werknemers’ in het menu Algemeen. Zoek een specifieke werknemer m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Selecteer je kenmerk(en) door hier één keer op te klikken. Druk na je selectie op ‘VERWIJDEREN’."
+  },
+  "dashboards/configuratie/Algemeen/algwer4.html": {
+    "href": "dashboards/configuratie/Algemeen/algwer4.html",
+    "title": "Hoe exporteer ik mijn werknemers? | Powerall.Online.Documentatie",
+    "keywords": "Hoe exporteer ik mijn werknemers? Navigeer naar het Configuratie dashboard. Druk op ‘Werknemers’ in het menu Algemeen. Creëer een door jou gewenste weergave m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Druk op de knop ‘EXPORT’. Kies welke kolommen je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden."
+  },
+  "dashboards/configuratie/Artikelen/artken1.html": {
+    "href": "dashboards/configuratie/Artikelen/artken1.html",
+    "title": "Hoe voeg ik een artikelkenmerk toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een artikelkenmerk toe? Navigeer naar het Configuratie dashboard. Druk op ‘Kenmerken’ in het menu Artikelen. Druk op de knop ‘TOEVOEGEN’. Selecteer als bron alleen Artikelen. Voer vervolgens alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de Weergave naam."
+  },
+  "dashboards/configuratie/Artikelen/artken2.html": {
+    "href": "dashboards/configuratie/Artikelen/artken2.html",
+    "title": "Hoe wijzig ik een artikelkenmerk? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik een artikelkenmerk? Navigeer naar het Configuratie dashboard. Druk op ‘Kenmerken’ in het menu Artikelen. Zoek een specifieke kenmerk(en) m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Druk op het potloodje rechts van je kenmerk. Pas de gegevens aan. Druk na je wijzigingen op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Artikelen/artken3.html": {
+    "href": "dashboards/configuratie/Artikelen/artken3.html",
+    "title": "Hoe verwijder ik een artikelkenmerk toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een artikelkenmerk toe? Navigeer naar het Configuratie dashboard. Druk op ‘Kenmerken’ in het menu Artikelen. Zoek een specifieke kenmerk(en) m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Selecteer je kenmerk(en) door op de witte vierkantjes te drukken links van je kenmerk(en). Druk na je selectie op ‘VERWIJDEREN’."
+  },
+  "dashboards/configuratie/Artikelen/artomz1.html": {
+    "href": "dashboards/configuratie/Artikelen/artomz1.html",
+    "title": "Hoe voeg ik een omzetgroep toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een omzetgroep toe? Navigeer naar het Configuratie dashboard. Druk op ‘Omzetgroepen' in het menu Artikelen. Druk op de knop ‘TOEVOEGEN’. Voer vervolgens alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de Omschrijving, Omzet en Inkoopprijs."
+  },
+  "dashboards/configuratie/Artikelen/artomz2.html": {
+    "href": "dashboards/configuratie/Artikelen/artomz2.html",
+    "title": "Hoe verwijder ik een omzetgroep? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een omzetgroep? Navigeer naar het Configuratie dashboard. Druk op ‘Omzetgroepen’ in het menu Artikelen. Zoek een specifieke kenmerk(en) m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Selecteer je kenmerk(en) door een keer te klikken op jouw gekozen omzetgroep. Druk na je selectie op ‘VERWIJDEREN’."
+  },
+  "dashboards/configuratie/Artikelen/artomz3.html": {
+    "href": "dashboards/configuratie/Artikelen/artomz3.html",
+    "title": "Hoe wijzig ik een omzetgroep? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik een omzetgroep? Navigeer naar het Configuratie dashboard. Druk op ‘Omzetgroepen' in het menu Artikelen. Zoek een specifieke kenmerk(en) m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Druk op het potloodje rechts van je kenmerk. Pas de gegevens aan. Druk na je wijzigingen op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Artikelen/artomz4.html": {
+    "href": "dashboards/configuratie/Artikelen/artomz4.html",
+    "title": "Hoe exporteer ik mijn omzetgroepen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe exporteer ik mijn omzetgroepen? Navigeer naar het Configuratie dashboard. Druk op ‘Omzetgroepen' in het menu Artikelen. Creëer een door jou gewenste weergave m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Druk op de knop ‘EXPORT’. Kies welke kolommen je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden."
+  },
+  "dashboards/configuratie/Financieel/Finban1.html": {
+    "href": "dashboards/configuratie/Financieel/Finban1.html",
+    "title": "Hoe voeg ik een bankrekening toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een bankrekening toe? Navigeer naar het Configuratie dashboard. Druk op ‘Bankrekeningen’ in het menu Financieel. Druk op de knop ‘TOEVOEGEN’. Voer vervolgens alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de IBAN, BIC en Grootboekrekening. Druk na invullen op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Financieel/finaud1.html": {
+    "href": "dashboards/configuratie/Financieel/finaud1.html",
+    "title": "Hoe maak ik een auditfile? | Powerall.Online.Documentatie",
+    "keywords": "Hoe maak ik een auditfile? Navigeer naar het Configuratie dashboard. Druk op ‘Auditfile export’ in het menu Financieel. Druk op de knop ‘Genereer’. Vul je Startdatum en Einddatum in. Druk op ‘AANMAKEN AUDITFILE EXPORT’."
+  },
+  "dashboards/configuratie/Financieel/finaud2.html": {
+    "href": "dashboards/configuratie/Financieel/finaud2.html",
+    "title": "Hoe download ik een auditfile? | Powerall.Online.Documentatie",
+    "keywords": "Hoe download ik een auditfile? Navigeer naar het Configuratie dashboard. Druk op ‘Auditfile export’ in het menu Financieel. Druk rechts van je auditfile op het download icoontje. OF dubbelklik op je auditfile en druk rechts bovenin op ‘DOWNLOADEN’."
+  },
+  "dashboards/configuratie/Financieel/finaud3.html": {
+    "href": "dashboards/configuratie/Financieel/finaud3.html",
+    "title": "Hoe exporteer ik een auditfile? | Powerall.Online.Documentatie",
+    "keywords": "Hoe exporteer ik een auditfile? Navigeer naar het Configuratie dashboard. Druk op ‘Auditfile export’ in het menu Financieel. Druk op de knop ‘EXPORT’. Kies welke kolommen je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden"
+  },
+  "dashboards/configuratie/Financieel/finaud4.html": {
+    "href": "dashboards/configuratie/Financieel/finaud4.html",
+    "title": "Hoe verwijder ik een auditfile? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een auditfile? Navigeer naar het Configuratie dashboard. Druk op ‘Auditfile export’ in het menu Financieel. Selecteer je auditfile door één keer te klikken, druk daarna op ‘VERWIJDEREN’. OF dubbelklik op je auditfile en druk rechts bovenin op ‘VERWIJDEREN."
+  },
+  "dashboards/configuratie/Financieel/finban2.html": {
+    "href": "dashboards/configuratie/Financieel/finban2.html",
+    "title": "Hoe wijzig ik een bankrekening? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik een bankrekening? Navigeer naar het Configuratie dashboard. Druk op ‘Bankrekeningen’ in het menu Financieel. Zoek een specifieke bankrekening m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Druk op het potloodje rechts van je bankrekening. Pas de gegevens aan. Druk na je wijzigingen op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Financieel/finban3.html": {
+    "href": "dashboards/configuratie/Financieel/finban3.html",
+    "title": "Hoe verwijder ik een bankrekening? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een bankrekening? Navigeer naar het Configuratie dashboard. Druk op ‘Bankrekeningen’ in het menu Financieel. Zoek een specifieke bankrekening m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Selecteer je bankrekening door hier één keer op te klikken. Druk na je selectie op ‘VERWIJDEREN’."
+  },
+  "dashboards/configuratie/Financieel/finban4.html": {
+    "href": "dashboards/configuratie/Financieel/finban4.html",
+    "title": "Hoe exporteer ik een bankrekening? | Powerall.Online.Documentatie",
+    "keywords": "Hoe exporteer ik een bankrekening? Navigeer naar het Configuratie dashboard. Druk op ‘Bankrekeningen’ in het menu Financieel. Creëer een door jou gewenste weergave m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Druk op de knop ‘EXPORT’. Kies welke kolommen je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden."
+  },
+  "dashboards/configuratie/Financieel/finbeg1.html": {
+    "href": "dashboards/configuratie/Financieel/finbeg1.html",
+    "title": "Hoe voeg ik een beginbalans toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een beginbalans toe? Navigeer naar het Configuratie dashboard. Druk op ‘Beginbalansen' in het menu Financieel. Druk op de knop ‘TOEVOEGEN’. Vul je boekjaar in. Voer vervolgens alle bedragen die je voor handen hebt in. a. Verplichte gegevens zijn; (minimaal) één nieuw bedrag. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Financieel/finbeg2.html": {
+    "href": "dashboards/configuratie/Financieel/finbeg2.html",
+    "title": "Hoe wijzig ik een beginbalans? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik een beginbalans? Navigeer naar het Configuratie dashboard. Druk op ‘Beginbalansen' in het menu Financieel. Selecteer je boekjaar door dubbel te klikken. Druk op rechts bovenin op ‘WIJZIGEN'. Voer vervolgens alle bedragen die je voor handen hebt in. Druk na het invullen rechts bovenin op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Financieel/finbeg3.html": {
+    "href": "dashboards/configuratie/Financieel/finbeg3.html",
+    "title": "Hoe verwijder ik een beginbalans? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een beginbalans? Navigeer naar het Configuratie dashboard. Druk op ‘Beginbalansen’ in het menu Financieel. Selecteer je grootboekrekening door één keer op je boekjaar te klikken. Druk vervolgens op de knop ‘VERWIJDEREN’."
+  },
+  "dashboards/configuratie/Financieel/finbeg4.html": {
+    "href": "dashboards/configuratie/Financieel/finbeg4.html",
+    "title": "Hoe exporteer ik een beginbalans? | Powerall.Online.Documentatie",
+    "keywords": "Hoe exporteer ik een beginbalans? Navigeer naar het Configuratie dashboard. Druk op ‘Beginbalansen’ in het menu Financieel. Druk op de knop ‘EXPORT’. Kies welke kolommen je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden"
+  },
+  "dashboards/configuratie/Financieel/finbeg5.html": {
+    "href": "dashboards/configuratie/Financieel/finbeg5.html",
+    "title": "Hoe bekijk ik mijn financiële mutatie? | Powerall.Online.Documentatie",
+    "keywords": "Hoe bekijk ik mijn financiële mutatie? Navigeer naar het Configuratie dashboard. Druk op ‘Beginbalansen' in het menu Financieel. Selecteer je boekjaar door dubbel te klikken. Druk op rechts bovenin op ‘BEKIJK FINANCIËLE MUTATIE’."
+  },
+  "dashboards/configuratie/Financieel/finbet1.html": {
+    "href": "dashboards/configuratie/Financieel/finbet1.html",
+    "title": "Hoe voeg ik een betaalherinnering-urgentie toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een betaalherinnering-urgentie toe? Navigeer naar het Configuratie dashboard. Druk op ‘Betaalherinnering-urgentie’ in het menu Financieel. Druk op de knop ‘TOEVOEGEN’. Voer vervolgens alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; Omschrijving en Dagen sinds laatste herinnering. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Financieel/finbet2.html": {
+    "href": "dashboards/configuratie/Financieel/finbet2.html",
+    "title": "Hoe verwijder ik een betaalherinnering-urgentie? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een betaalherinnering-urgentie? Navigeer naar het Configuratie dashboard. Druk op ‘Betaalherinnering-urgentie’ in het menu Financieel. Selecteer je Betaalherinnering-urgentie door dubbel te klikken. Druk vervolgens op de knop ‘VERWIJDEREN’."
+  },
+  "dashboards/configuratie/Financieel/finbet3.html": {
+    "href": "dashboards/configuratie/Financieel/finbet3.html",
+    "title": "Hoe wijzig ik een betaalherinnering-urgentie? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik een betaalherinnering-urgentie? Navigeer naar het Configuratie dashboard. Druk op ‘Betaalherinnering-urgentie’ in het menu Financieel. Selecteer je Betaalherinnering-urgentie door dubbel te klikken. Druk vervolgens op de knop ‘WIJZIGEN'."
+  },
+  "dashboards/configuratie/Financieel/finbet4.html": {
+    "href": "dashboards/configuratie/Financieel/finbet4.html",
+    "title": "Hoe wijzig ik de volgorde van een betaalherinnering-urgentie? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik de volgorde van een betaalherinnering-urgentie? Navigeer naar het Configuratie dashboard. Druk op ‘Betaalherinnering-urgentie’ in het menu Financieel. Klik vervolgens rechts bovenin op ‘WIJZIG VOLGORDE’. Pas de volgorde aan naar jouw wensen Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Financieel/fingro1.html": {
+    "href": "dashboards/configuratie/Financieel/fingro1.html",
+    "title": "Hoe voeg ik een grootboekrekening toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een grootboekrekening toe? Navigeer naar het Configuratie dashboard. Druk op ‘Grootboekrekeningen' in het menu Financieel. Druk op de knop ‘TOEVOEGEN’. Voer vervolgens alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de Code en Omschrijving. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Financieel/fingro2.html": {
+    "href": "dashboards/configuratie/Financieel/fingro2.html",
+    "title": "Hoe wijzig ik een grootboekrekening? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik een grootboekrekening? Navigeer naar het Configuratie dashboard. Druk op ‘Grootboekrekeningen' in het menu Financieel. Zoek een specifieke bankrekening m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Dubbelklik op jouw grootboekrekening. Klik rechts bovenin op ‘WIJZIGEN’. Pas de gegevens aan. Druk na je wijzigingen op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Financieel/fingro3.html": {
+    "href": "dashboards/configuratie/Financieel/fingro3.html",
+    "title": "Hoe verwijder ik een grootboekrekening? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een grootboekrekening? Navigeer naar het Configuratie dashboard. Druk op ‘Grootboekrekeningen' in het menu Financieel. Zoek een specifieke bankrekening m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Selecteer je grootboekrekening door op het witte vierkantje te drukken naast jouw grootboekrekening. Druk vervolgens op de knop ‘VERWIJDEREN’."
+  },
+  "dashboards/configuratie/Financieel/fingro4.html": {
+    "href": "dashboards/configuratie/Financieel/fingro4.html",
+    "title": "Hoe exporteer ik een grootboekrekening? | Powerall.Online.Documentatie",
+    "keywords": "Hoe exporteer ik een grootboekrekening? Navigeer naar het Configuratie dashboard. Druk op ‘Grootboekrekeningen’ in het menu Financieel. Creëer een door jou gewenste weergave m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Druk op de knop ‘EXPORT’. Kies welke kolommen je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden."
+  },
+  "dashboards/configuratie/Financieel/fingro5.html": {
+    "href": "dashboards/configuratie/Financieel/fingro5.html",
+    "title": "Hoe importeer ik een grootboekrekening? | Powerall.Online.Documentatie",
+    "keywords": "Hoe importeer ik een grootboekrekening? Navigeer naar het Configuratie dashboard. Druk op ‘Grootboekrekeningen’ in het menu Financieel. Creëer een door jou gewenste weergave m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Druk op de knop ‘IMPORT’. Upload je bestand en selecteer vervolgens de juiste kolomnamen voor je groetboekrekening."
+  },
+  "dashboards/configuratie/Financieel/finkas1.html": {
+    "href": "dashboards/configuratie/Financieel/finkas1.html",
+    "title": "Hoe voeg ik een kasrekening toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een kasrekening toe? Navigeer naar het Configuratie dashboard. Druk op ‘Kasrekeningen’ in het menu Financieel. Druk op de knop ‘TOEVOEGEN’. Vul je boekjaar in. Voer vervolgens alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; Omschrijving en Grootboekrekening. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Financieel/finkas2.html": {
+    "href": "dashboards/configuratie/Financieel/finkas2.html",
+    "title": "Hoe wijzig ik een kasrekening? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik een kasrekening? Navigeer naar het Configuratie dashboard. Druk op ‘Kasrekeningen’ in het menu Financieel. Selecteer je boekjaar door dubbel te klikken. Druk op rechts bovenin op ‘WIJZIGEN'. Note Let op!: Je kan alleen je kasrekeningen aanpassen wanneer er nog geen transacties zijn gedaan in die rekening."
+  },
+  "dashboards/configuratie/Financieel/finkas3.html": {
+    "href": "dashboards/configuratie/Financieel/finkas3.html",
+    "title": "Hoe wijzig ik de naam van een kasrekening? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik de naam van een kasrekening? Navigeer naar het Configuratie dashboard. Druk op ‘Kasrekeningen’ in het menu Financieel. Druk op het potloodje rechts van je Kasrekening. Pas de omschrijving aan en druk vervolgens rechts bovenin op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Financieel/finkas4.html": {
+    "href": "dashboards/configuratie/Financieel/finkas4.html",
+    "title": "Hoe verwijder ik een kasrekening? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een kasrekening? Navigeer naar het Configuratie dashboard. Druk op ‘Kasrekeningen’ in het menu Financieel. Selecteer je grootboekrekening door één keer op je boekjaar te klikken. Druk vervolgens op de knop ‘VERWIJDEREN’."
+  },
+  "dashboards/configuratie/Financieel/finkas5.html": {
+    "href": "dashboards/configuratie/Financieel/finkas5.html",
+    "title": "Hoe exporteer ik een kasrekening? | Powerall.Online.Documentatie",
+    "keywords": "Hoe exporteer ik een kasrekening? Navigeer naar het Configuratie dashboard. Druk op ‘Kasrekeningen’ in het menu Financieel. Druk op de knop ‘EXPORT’. Kies welke kolommen je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden"
+  },
+  "dashboards/configuratie/Financieel/fintra1.html": {
+    "href": "dashboards/configuratie/Financieel/fintra1.html",
+    "title": "Waar zie ik mijn transactieherkenningen? | Powerall.Online.Documentatie",
+    "keywords": "Waar zie ik mijn transactieherkenningen? Navigeer naar het Configuratie dashboard. Druk op ‘Transactieherkenning’ in het menu Financieel."
+  },
+  "dashboards/configuratie/Financieel/fintra2.html": {
+    "href": "dashboards/configuratie/Financieel/fintra2.html",
+    "title": "Waar kan ik mijn transactieherkenningen verwijderen? | Powerall.Online.Documentatie",
+    "keywords": "Waar kan ik mijn transactieherkenningen verwijderen? Navigeer naar het Configuratie dashboard. Druk op ‘Transactieherkenning’ in het menu Financieel. Selecteer je transactieherkenning door één keer op je transactieherkenning te klikken. Druk vervolgens op de knop ‘VERWIJDEREN’."
+  },
+  "dashboards/configuratie/Relaties/relken1.html": {
+    "href": "dashboards/configuratie/Relaties/relken1.html",
+    "title": "Hoe voeg ik een relatiekenmerk toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een relatiekenmerk toe? Navigeer naar het Configuratie dashboard. Druk op ‘Kenmerken’ in het menu Relaties. Druk op de knop ‘TOEVOEGEN’. Selecteer als bron alleen Relatie. Voer vervolgens alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de Weergave naam."
+  },
+  "dashboards/configuratie/Relaties/relken2.html": {
+    "href": "dashboards/configuratie/Relaties/relken2.html",
+    "title": "Hoe wijzig ik een relatiekenmerk? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik een relatiekenmerk? Navigeer naar het Configuratie dashboard. Druk op ‘Kenmerken’ in het menu Relaties. Zoek een specifieke kenmerk(en) m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Druk op het potloodje rechts van je kenmerk. Pas de gegevens aan Druk na je wijzigingen op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Relaties/relken3.html": {
+    "href": "dashboards/configuratie/Relaties/relken3.html",
+    "title": "Hoe verwijder ik een relatiekenmerk? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een relatiekenmerk? Navigeer naar het Configuratie dashboard. Druk op ‘Kenmerken’ in het menu Relaties. Zoek een specifieke kenmerk(en) m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Selecteer je kenmerk(en) door op de witte vierkantjes te drukken links van je kenmerk(en). Druk na je selectie op ‘VERWIJDEREN’."
+  },
+  "dashboards/configuratie/Serviceobjecten/Serken1.html": {
+    "href": "dashboards/configuratie/Serviceobjecten/Serken1.html",
+    "title": "Hoe voeg ik een serviceobject kenmerk toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een serviceobject kenmerk toe? Navigeer naar het Configuratie dashboard. Druk op ‘Kenmerken’ in het menu Relaties. Druk op de knop ‘TOEVOEGEN’. Selecteer als bron alleen Serviceobject. Voer vervolgens alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de Weergave naam."
+  },
+  "dashboards/configuratie/Serviceobjecten/serken2.html": {
+    "href": "dashboards/configuratie/Serviceobjecten/serken2.html",
+    "title": "Hoe wijzig ik een serviceobject kenmerk? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik een serviceobject kenmerk? Navigeer naar het Configuratie dashboard. Druk op ‘Kenmerken’ in het menu Serviceobjecten. Zoek een specifieke kenmerk(en) m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Druk op het potloodje rechts van je kenmerk. Pas de gegevens aan. Druk na je wijzigingen op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/Serviceobjecten/serken3.html": {
+    "href": "dashboards/configuratie/Serviceobjecten/serken3.html",
+    "title": "Hoe verwijder ik een serviceobject kenmerk? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een serviceobject kenmerk? Navigeer naar het Configuratie dashboard. Druk op ‘Kenmerken’ in het menu Serviceobjecten. Zoek een specifieke kenmerk(en) m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Selecteer je kenmerk(en) door op de witte vierkantjes te drukken links van je kenmerk(en). Druk na je selectie op ‘VERWIJDEREN’."
+  },
+  "dashboards/configuratie/Werkbonnen/Wertyp1.html": {
+    "href": "dashboards/configuratie/Werkbonnen/Wertyp1.html",
+    "title": "Hoe maak ik een nieuw werktype aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe maak ik een nieuw werktype aan? Navigeer naar het Configuratie dashboard. Druk op ‘Werktype’ in het menu werkbonnen. Vul een omschrijving en een Artikel in. Druk op de + om je nieuwe werktype toe te voegen."
+  },
+  "dashboards/configuratie/Werkbonnen/wertyp2.html": {
+    "href": "dashboards/configuratie/Werkbonnen/wertyp2.html",
+    "title": "Hoe wijzig ik een nieuw werktype? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik een nieuw werktype? Navigeer naar het Configuratie dashboard. Druk op ‘Werktype’ in het menu werkbonnen. Druk op het potloodje om je werktype aan te passen. Druk vervolgens op de floppydisk om het op te slaan."
+  },
+  "dashboards/configuratie/Werkbonnen/wertyp3.html": {
+    "href": "dashboards/configuratie/Werkbonnen/wertyp3.html",
+    "title": "Hoe verwijder ik een werktype? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een werktype? Navigeer naar het Configuratie dashboard. Druk op ‘Werktype’ in het menu werkbonnen. Druk op de vuilnisbak om je werktype te verwijderen."
+  },
+  "dashboards/configuratie/condash.html": {
+    "href": "dashboards/configuratie/condash.html",
+    "title": "Configuratie dashboard | Powerall.Online.Documentatie",
+    "keywords": "Configuratie dashboard Dit dashboard geeft u toegang tot alle instellingen van elk onderwerp. U kunt hier alles aanpassen en toevoegen naar uw voorkeur. Afbeelding 10: configuratiedashboard"
+  },
+  "dashboards/configuratie/configuratie2/congeb1.html": {
+    "href": "dashboards/configuratie/configuratie2/congeb1.html",
+    "title": "Hoe kan ik mijn gebruikers inzien? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn gebruikers inzien? Navigeer naar het Configuratie dashboard. Druk op ‘Gebruikers’ in het menu Configuratie."
+  },
+  "dashboards/configuratie/configuratie2/congeb2.html": {
+    "href": "dashboards/configuratie/configuratie2/congeb2.html",
+    "title": "Hoe kan ik een rol aan een gebruiker toewijzen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik een rol aan een gebruiker toewijzen? Navigeer naar het Configuratie dashboard. Druk op ‘Gebruikers’ in het menu Configuratie. Dubbelklik op een van je gebruikers. Druk op het plusje rechts van je gebruiker. Kies een rol Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/congeb3.html": {
+    "href": "dashboards/configuratie/configuratie2/congeb3.html",
+    "title": "Hoe kan ik de rollen van mijn gebruikers wijzigen/ontkoppelen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik de rollen van mijn gebruikers wijzigen/ontkoppelen? Navigeer naar het Configuratie dashboard. Druk op ‘Gebruikers’ in het menu Configuratie. Dubbelklik op een van je gebruikers. Druk op het potloodje rechts van je gebruiker om de rollen te wijzigen Druk op de rode vuilnisbak om de rol te ontkoppelen. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/congeb4.html": {
+    "href": "dashboards/configuratie/configuratie2/congeb4.html",
+    "title": "Hoe kan ik mijn gebruikers exporteren? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn gebruikers exporteren? Navigeer naar het Configuratie dashboard. Druk op ‘Gebruikers’ in het menu Configuratie. Druk op ‘EXPORT’. Er verschijnt een menu waarbij je de kolommen moet kiezen die je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden."
+  },
+  "dashboards/configuratie/configuratie2/conimport1.html": {
+    "href": "dashboards/configuratie/configuratie2/conimport1.html",
+    "title": "Waar kan ik de import-documentatie zien? | Powerall.Online.Documentatie",
+    "keywords": "Waar kan ik de import-documentatie zien? Navigeer naar het Configuratie dashboard. Druk op ‘Import-documentatie’ in het menu Configuratie."
+  },
+  "dashboards/configuratie/configuratie2/conins1.html": {
+    "href": "dashboards/configuratie/configuratie2/conins1.html",
+    "title": "Hoe voeg ik een bedrijfslogo toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een bedrijfslogo toe? Navigeer naar het Configuratie dashboard. Druk op ‘Instellingen’ in het menu Configuratie. Druk bij het kopje Bedrijfslogo op ‘TOEVOEGEN’. Upload uw Logo. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/conins2.html": {
+    "href": "dashboards/configuratie/configuratie2/conins2.html",
+    "title": "Hoe vervang of verwijder ik mijn bedrijfslogo? | Powerall.Online.Documentatie",
+    "keywords": "Hoe vervang of verwijder ik mijn bedrijfslogo? Navigeer naar het Configuratie dashboard. Druk op ‘Instellingen’ in het menu Configuratie. Druk bij het kopje Bedrijfslogo op. a. ‘WIJZIGEN’, hier kunt u een nieuw logo uploaden. b. ‘VERWIJDEREN’, hier wordt uw logo gelijk verwijdert."
+  },
+  "dashboards/configuratie/configuratie2/conins3.html": {
+    "href": "dashboards/configuratie/configuratie2/conins3.html",
+    "title": "Hoe pas ik de algemene gegevens/instellingen van mijn bedrijf aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe pas ik de algemene gegevens/instellingen van mijn bedrijf aan? Navigeer naar het Configuratie dashboard. Druk op ‘Instellingen’ in het menu Configuratie. Druk bij het kopje Algemeen op een van de gegevens om deze aan te passen. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/conins4.html": {
+    "href": "dashboards/configuratie/configuratie2/conins4.html",
+    "title": "Hoe pas ik de verkoop gegevens/instellingen van mijn bedrijf aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe pas ik de verkoop gegevens/instellingen van mijn bedrijf aan? Navigeer naar het Configuratie dashboard. Druk op ‘Instellingen’ in het menu Configuratie. Druk bij het kopje Verkoop op een van de gegevens om deze aan te passen. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/conins5.html": {
+    "href": "dashboards/configuratie/configuratie2/conins5.html",
+    "title": "Hoe pas ik de inkoop gegevens/instellingen van mijn bedrijf aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe pas ik de inkoop gegevens/instellingen van mijn bedrijf aan? Navigeer naar het Configuratie dashboard. Druk op ‘Instellingen’ in het menu Configuratie. Druk bij het kopje Inkoop op een van de gegevens om deze aan te passen. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/conins6.html": {
+    "href": "dashboards/configuratie/configuratie2/conins6.html",
+    "title": "Hoe pas ik de algemene financiële gegevens/instellingen van mijn bedrijf aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe pas ik de algemene financiële gegevens/instellingen van mijn bedrijf aan? Navigeer naar het Configuratie dashboard. Druk op ‘Instellingen’ in het menu Configuratie. Druk bij het kopje Financieel Algemeen op een van de gegevens om deze aan te passen. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/conins7.html": {
+    "href": "dashboards/configuratie/configuratie2/conins7.html",
+    "title": "Hoe pas ik de BTW gegevens/instellingen van mijn bedrijf aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe pas ik de BTW gegevens/instellingen van mijn bedrijf aan? Navigeer naar het Configuratie dashboard. Druk op ‘Instellingen’ in het menu Configuratie. Druk bij het kopje BTW op een van de gegevens om deze aan te passen. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/conins8.html": {
+    "href": "dashboards/configuratie/configuratie2/conins8.html",
+    "title": "Hoe pas ik de betaalherinneringen gegevens/instellingen aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe pas ik de betaalherinneringen gegevens/instellingen aan? Navigeer naar het Configuratie dashboard. Druk op ‘Instellingen’ in het menu Configuratie. Druk bij het kopje Betaalherinneringen op een van de gegevens om deze aan te passen. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/conins9.html": {
+    "href": "dashboards/configuratie/configuratie2/conins9.html",
+    "title": "Hoe pas ik de serviceobjecten gegevens/instellingen aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe pas ik de serviceobjecten gegevens/instellingen aan? Navigeer naar het Configuratie dashboard. Druk op ‘Instellingen’ in het menu Configuratie. Druk bij het kopje Serviceobjecten op een van de gegevens om deze aan te passen. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/coninst1.html": {
+    "href": "dashboards/configuratie/configuratie2/coninst1.html",
+    "title": "Hoe kan ik een tag verwijderen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik een tag verwijderen? Navigeer naar het Configuratie dashboard. Druk op ‘Tags’ in het menu Configuratie. Druk op het rode vuilnisbakje om een tag te verwijderen."
+  },
+  "dashboards/configuratie/configuratie2/coninst2.html": {
+    "href": "dashboards/configuratie/configuratie2/coninst2.html",
+    "title": "Hoe kan ik mijn tags inzien? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn tags inzien? Navigeer naar het Configuratie dashboard. Druk op ‘Tags’ in het menu Configuratie."
+  },
+  "dashboards/configuratie/configuratie2/conlay1.html": {
+    "href": "dashboards/configuratie/configuratie2/conlay1.html",
+    "title": "Hoe pas ik de lay-out van mijn verkoopfactuur aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe pas ik de lay-out van mijn verkoopfactuur aan? Navigeer naar het Configuratie dashboard. Druk op ‘Lay-out’ in het menu Configuratie. Druk vervolgens op ‘Verkoopfactuur’. Pas je verkoopfactuur lay-out aan. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/conlay2.html": {
+    "href": "dashboards/configuratie/configuratie2/conlay2.html",
+    "title": "Hoe pas ik de lay-out van mijn verkooporder aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe pas ik de lay-out van mijn verkooporder aan? Navigeer naar het Configuratie dashboard. Druk op ‘Lay-out’ in het menu Configuratie. Druk vervolgens op ‘Verkooporder’. Pas je verkooporder lay-out aan. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/conlay3.html": {
+    "href": "dashboards/configuratie/configuratie2/conlay3.html",
+    "title": "Hoe pas ik de lay-out van mijn werkbon aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe pas ik de lay-out van mijn werkbon aan? Navigeer naar het Configuratie dashboard. Druk op ‘Lay-out’ in het menu Configuratie. Druk vervolgens op ‘Werkbon’. Pas je werkbon lay-out aan. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/conlay4.html": {
+    "href": "dashboards/configuratie/configuratie2/conlay4.html",
+    "title": "Hoe pas ik de lay-out van mijn betaalherinnering aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe pas ik de lay-out van mijn betaalherinnering aan? Navigeer naar het Configuratie dashboard. Druk op ‘Lay-out’ in het menu Configuratie. Druk vervolgens op ‘Betaalherinnering’. Pas je betaalherinnering lay-out aan. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/conmai1.html": {
+    "href": "dashboards/configuratie/configuratie2/conmai1.html",
+    "title": "Hoe voeg ik een mailadres toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een mailadres toe? Navigeer naar het Configuratie dashboard. Druk op ‘Mailinstellingen’ in het menu Configuratie. Druk op ‘TOEVOEGEN’. Voer vervolgens alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de Standaard afzender, Onderwerp en Bericht. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/conmai2.html": {
+    "href": "dashboards/configuratie/configuratie2/conmai2.html",
+    "title": "Hoe verwijder ik een mailadres? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een mailadres? Navigeer naar het Configuratie dashboard. Druk op ‘Mailinstellingen’ in het menu Configuratie. Selecteer een afzender door één keer op je afzender te klikken. Druk vervolgens op de knop ‘VERWIJDEREN’."
+  },
+  "dashboards/configuratie/configuratie2/conmai3.html": {
+    "href": "dashboards/configuratie/configuratie2/conmai3.html",
+    "title": "Hoe wijzig ik een mailadres? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik een mailadres? Navigeer naar het Configuratie dashboard. Druk op ‘Mailinstellingen’ in het menu Configuratie. Druk op het potloodje rechts van je afzender. Pas de gegevens. Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/conmai4.html": {
+    "href": "dashboards/configuratie/configuratie2/conmai4.html",
+    "title": "Hoe exporteer ik al mijn emailadressen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe exporteer ik al mijn emailadressen? Navigeer naar het Configuratie dashboard. Druk op ‘Mailinstellingen’ in het menu Configuratie. Druk op de knop ‘EXPORT’. Kies welke kolommen je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden"
+  },
+  "dashboards/configuratie/configuratie2/connum1.html": {
+    "href": "dashboards/configuratie/configuratie2/connum1.html",
+    "title": "Hoe voeg ik nummerreeksen toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik nummerreeksen toe? Navigeer naar het Configuratie dashboard. Druk op ‘Nummerreeksen’ in het menu Configuratie. Druk op de knop ‘TOEVOEGEN’. Voer vervolgens alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de Type en Startwaarde (nieuwe reeks). Druk op ‘OPSLAAN’."
+  },
+  "dashboards/configuratie/configuratie2/connum2.html": {
+    "href": "dashboards/configuratie/configuratie2/connum2.html",
+    "title": "Hoe verwijder ik nummerreeksen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik nummerreeksen? Navigeer naar het Configuratie dashboard. Druk op ‘Nummerreeksen’ in het menu Configuratie. Selecteer je Nummerreeks door één keer op je Nummerreeksen te klikken. Druk vervolgens op de knop ‘VERWIJDEREN’."
+  },
+  "dashboards/configuratie/configuratie2/connum3.html": {
+    "href": "dashboards/configuratie/configuratie2/connum3.html",
+    "title": "Hoe wijzig ik nummerreeksen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik nummerreeksen? Navigeer naar het Configuratie dashboard. Druk op ‘Nummerreeksen’ in het menu Configuratie. Druk op het potloodje rechts van de nummerreeks. Pas de gegevens aan. Klik vervolgens op ‘OPSLAAN’."
+  },
+  "dashboards/crediteur/cre1.html": {
+    "href": "dashboards/crediteur/cre1.html",
+    "title": "Waar kan ik mijn inkoopfacturen zien? | Powerall.Online.Documentatie",
+    "keywords": "Waar kan ik mijn inkoopfacturen zien? Navigeer naar het Crediteurendashboard. Druk op ‘Inkoopfactuur inbox’ in het menu Inkoopfacturen."
+  },
+  "dashboards/crediteur/cre10.html": {
+    "href": "dashboards/crediteur/cre10.html",
+    "title": "Hoe kan ik mijn openpostenlijst downloaden? (Crediteur) | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn openpostenlijst downloaden? (Crediteur) Navigeer naar het Crediteurendashboard. Druk op ‘Openpostenlijst’ in Open crediteurposten. Je kunt nu filters instellen aan de linkerkant van je scherm om de gewenste weergave van jouw openpostenlijst te verkrijgen. Druk vervolgens rechts bovenin ‘DOWNLOAD PDF’."
+  },
+  "dashboards/crediteur/cre11.html": {
+    "href": "dashboards/crediteur/cre11.html",
+    "title": "Hoe keur ik betaalbatches goed? | Powerall.Online.Documentatie",
+    "keywords": "Hoe keur ik betaalbatches goed? Navigeer naar het Crediteurendashboard. Druk op ‘Betaalbatches goedkeuren’ in het menu Betaling. Selecteer een goed te keuren inkoopfactuur en druk rechts bovenin op ‘GOEDKEUREN’."
+  },
+  "dashboards/crediteur/cre2.html": {
+    "href": "dashboards/crediteur/cre2.html",
+    "title": "Hoe maak ik een inkoopfactuur aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe maak ik een inkoopfactuur aan? Navigeer naar het Crediteurendashboard. Druk op ‘Inkoopfactuur inbox’ in het menu Inkoopfacturen. Selecteer via je inbox een factuur waar nog geen factuur voor is aangemaakt of is herkend. Vul de gegevens in die je voor handen hebt en druk op ‘AANMAKEN’."
+  },
+  "dashboards/crediteur/cre3.html": {
+    "href": "dashboards/crediteur/cre3.html",
+    "title": "Hoe keur ik een inkoopfactuur goed? | Powerall.Online.Documentatie",
+    "keywords": "Hoe keur ik een inkoopfactuur goed? Navigeer naar het Crediteurendashboard. Druk op ‘Inkoopfacturen goedkeuren’ in het menu Inkoopfacturen. Selecteer je factuur en druk vervolgens op ‘GOEDKEUREN’."
+  },
+  "dashboards/crediteur/cre4.html": {
+    "href": "dashboards/crediteur/cre4.html",
+    "title": "Hoe keur ik een inkoopfactuur af? / Hoe wijzig ik een inkoopfactuur? | Powerall.Online.Documentatie",
+    "keywords": "Hoe keur ik een inkoopfactuur af? / Hoe wijzig ik een inkoopfactuur? Navigeer naar het Crediteurendashboard. Druk op ‘Inkoopfacturen goedkeuren’ in het menu Inkoopfacturen. Selecteer je factuur en druk vervolgens op ‘AFWIJZEN’ of ‘WIJZIGEN’."
+  },
+  "dashboards/crediteur/cre5.html": {
+    "href": "dashboards/crediteur/cre5.html",
+    "title": "Waar kan ik mijn openstaande inkoopfacturen zien? (Deze zijn dus goedgekeurd) | Powerall.Online.Documentatie",
+    "keywords": "Waar kan ik mijn openstaande inkoopfacturen zien? (Deze zijn dus goedgekeurd) Navigeer naar het Crediteurendashboard. Druk op ‘Openstaande inkoopfacturen’ in het menu Inkoopfacturen."
+  },
+  "dashboards/crediteur/cre6.html": {
+    "href": "dashboards/crediteur/cre6.html",
+    "title": "Waar kan ik al mijn facturen zien? | Powerall.Online.Documentatie",
+    "keywords": "Waar kan ik al mijn facturen zien? Navigeer naar het Crediteurendashboard. Druk op ‘Alle inkoopfacturen’ in het menu Inkoopfacturen."
+  },
+  "dashboards/crediteur/cre7.html": {
+    "href": "dashboards/crediteur/cre7.html",
+    "title": "Hoe maak ik betaalbestanden voor batches aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe maak ik betaalbestanden voor batches aan? Navigeer naar het Crediteurendashboard. Druk op ‘Betaalbestanden voor batches aanmaken’ in het menu Betaling. Zoek m.b.v. filters aan de linkerkant van je scherm jouw batch op. Dubbelklik op jouw batch. Druk rechtsboven op ‘BESTAND AANMAKEN’."
+  },
+  "dashboards/crediteur/cre8.html": {
+    "href": "dashboards/crediteur/cre8.html",
+    "title": "Hoe keur ik betaalbatches goed? | Powerall.Online.Documentatie",
+    "keywords": "Hoe keur ik betaalbatches goed? Navigeer naar het Crediteurendashboard. Druk op ‘Betaalbatches goedkeuren’ in het menu Betaling. Selecteer een goed te keuren inkoopfactuur en druk rechts bovenin op ‘GOEDKEUREN’."
+  },
+  "dashboards/crediteur/cre9.html": {
+    "href": "dashboards/crediteur/cre9.html",
+    "title": "Waar kan ik mijn betaalbatches historie inzien? | Powerall.Online.Documentatie",
+    "keywords": "Waar kan ik mijn betaalbatches historie inzien? Navigeer naar het Crediteurendashboard. Druk op ‘Betaalbatches historie’ in het menu Betaling."
+  },
+  "dashboards/crediteur/credash.html": {
+    "href": "dashboards/crediteur/credash.html",
+    "title": "Crediteuren dashboard | Powerall.Online.Documentatie",
+    "keywords": "Crediteuren dashboard Het crediteurendashboard geeft je een overzicht wat je nog moet betalen. Het crediteurendashboard geeft je een overzicht rondom al je inkoopfacturen en jouw crediteuren, ook geeft het de mogelijkheid om inkoopfacturen goed te keuren. Daarnaast kun je op dit dashboard betaalbatches goedkeuren en betaalbestanden voor batches aanmaken, ook kun je de historie van de betaalbatches zien. Als laatste is er ook nog een openpostenlijst voor de inkoopfacturen. Afbeelding 9: crediteurendashboard"
+  },
+  "dashboards/crm/crm1.html": {
+    "href": "dashboards/crm/crm1.html",
+    "title": "Hoe voeg ik een nieuwe relatie toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een nieuwe relatie toe? Navigeer naar het CRM-dashboard. Druk op ‘Nieuwe relatie’, in het menu CRM. Vul minimaal de (bedrijfs)naam en adres van jouw relatie in. Vul eventueel overige gegevens in zoals E-mailadres, KvK nummer, etc. Druk rechts bovenin op de actiebutton ‘OPSLAAN’."
+  },
+  "dashboards/crm/crm2.html": {
+    "href": "dashboards/crm/crm2.html",
+    "title": "Hoe verwijder ik een bestaande ‘relatie’? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een bestaande ‘relatie’? Navigeer naar het CRM-dashboard. Druk op ‘Relaties’, in het menu CRM. Zoek je relatie. a. Met behulp van de zoekbalk midden boven in je scherm. b. Met behulp van filters aan de linkerzijde van je scherm. Selecteer je relatie door op het witte vierkantje te drukken naast jouw relatie. Druk vervolgens op de knop ‘VERWIJDEREN’, ter hoogte van de eerdergenoemde zoekbalk."
+  },
+  "dashboards/crm/crm3.html": {
+    "href": "dashboards/crm/crm3.html",
+    "title": "Hoe exporteer ik mijn 'relaties'? | Powerall.Online.Documentatie",
+    "keywords": "Hoe exporteer ik mijn 'relaties'? Navigeer naar het CRM-dashboard. Druk op ‘Relaties’, in het menu CRM. Zoek je relatie. a. Met behulp van de zoekbalk midden boven in je scherm. b. Met behulp van filters aan de linkerzijde van je scherm. Selecteer je relatie door op het witte vierkantje te drukken naast jouw relatie. Druk vervolgens op de knop ‘EXPORT’, ter hoogte van de eerdergenoemde zoekbalk. Er verschijnt een menu waarbij je de kolommen moet kiezen die je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden."
+  },
+  "dashboards/crm/crm4.html": {
+    "href": "dashboards/crm/crm4.html",
+    "title": "Hoe importeer ik mijn relaties? | Powerall.Online.Documentatie",
+    "keywords": "Hoe importeer ik mijn relaties? Navigeer naar het CRM-dashboard. Druk op ‘Relaties’, in het menu CRM. Druk vervolgens op de knop ‘IMPORT’ ter hoogte van de zoekbalk. Selecteer of sleep het importbestand naar het upload vak. a. Upload je een CSV-bestand? Zorg ervoor dat je de juiste scheidingsteken selecteert. Dit kun je zien door jouw bestand te openen en te kijken of je informatie wordt gescheiden door komma’s of puntkomma’s. b. Upload je een Excel bestand met tabellen? Zorg dan na het uploaden van je bestand dat je alle kollommen selecteert die overeenkomen met je Excel bestand. Note Let op! Incomplete gegevens kunnen niet worden ingevoerd. Het adres van de klant en het type (zakelijk of privé), moet vermeld worden! Zie Import-documentatie in het configuratie dashboard voor meer info."
+  },
+  "dashboards/crm/crm5.html": {
+    "href": "dashboards/crm/crm5.html",
+    "title": "Hoe voeg ik een tweede adres toe aan mijn relatie? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een tweede adres toe aan mijn relatie? Navigeer naar het CRM-dashboard. Druk op ‘Relaties’, in het menu CRM. Zoek je relatie. a. Met behulp van de zoekbalk midden boven in je scherm. b. Met behulp van filters aan de linkerzijde van je scherm. Dubbelklik op jouw relatie. Navigeer via het bovenste menu naar ‘Adressen’. Klik op adres toevoegen en vul de gegevens in. Hierna kun je, door op de 3 puntjes te drukken naast het nieuwe adres, het nieuwe adres markeren als voorkeur voor: Primaire locatie, Post, Leveringen en Bezoek."
+  },
+  "dashboards/crm/crm6.html": {
+    "href": "dashboards/crm/crm6.html",
+    "title": "Hoe voeg ik een (contact)persoon toe aan mijn relatie? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een (contact)persoon toe aan mijn relatie? Navigeer naar het CRM-dashboard. Druk op ‘Relaties’, in het menu CRM. Zoek je relatie. a. Met behulp van de zoekbalk midden boven in je scherm. b. Met behulp van filters aan de linkerzijde van je scherm. Dubbelklik op jouw relatie. Navigeer via het bovenste menu naar ‘Personen’. Klik op ‘PERSOON TOEVOEGEN’ en vul de gegevens van je contactpersoon in. a. Wanneer je een 2e contactpersoon heeft toegevoegd. Kun je, door op de 3 puntjes te drukken naast je contactpersoon, jouw nieuwe contactpersoon markeren als voorkeur voor: Primaire persoon."
+  },
+  "dashboards/crm/crm7.html": {
+    "href": "dashboards/crm/crm7.html",
+    "title": "Hoe stel ik mijn communicatie voorkeuren in? | Powerall.Online.Documentatie",
+    "keywords": "Hoe stel ik mijn communicatie voorkeuren in? Navigeer naar het CRM-dashboard. Druk op ‘Relaties’, in het menu CRM. Zoek je relatie. a. Met behulp van de zoekbalk midden boven in je scherm. b. Met behulp van filters aan de linkerzijde van je scherm. Dubbelklik op jouw relatie. Navigeer via het bovenste menu naar ‘Communicatie voorkeuren’. Je hebt hier 3 keuzes: Verkoopfactuur, Betaalherinnering en Inkooporder. Om voor deze specifieke taken naar een ander e-mailadres te mailen, kun je andere E-mailadressen toevoegen."
+  },
+  "dashboards/crm/crm8.html": {
+    "href": "dashboards/crm/crm8.html",
+    "title": "Hoe kan ik gegevens van mijn klant inzien/aanpassen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik gegevens van mijn klant inzien/aanpassen? Navigeer naar het CRM-dashboard. Druk op ‘Relaties’, in het menu CRM. Zoek je relatie. a. Met behulp van de zoekbalk midden boven in je scherm. b. Met behulp van filters aan de linkerzijde van je scherm. Dubbelklik op jouw relatie. Navigeer via het bovenste menu naar de gegevens die je wilt inzien/aanpassen. a. Algemeen, Adressen, Personen, Communicatie voorkeuren, Kenmerken, Verkooporders, Verkoopfacturen, Inkoopfacturen, Serviceobjecten en Werkbonnen."
+  },
+  "dashboards/crm/crmdash.html": {
+    "href": "dashboards/crm/crmdash.html",
+    "title": "CRM Dashboard | Powerall.Online.Documentatie",
+    "keywords": "CRM Dashboard CRM, oftewel customer relationship management, weergeeft jouw top 10 klanten en een heatmap van je relaties. Ook is er op deze pagina de mogelijkheid om relaties toe te voegen en te bekijken. CRM gaat over het beheren van klantrelaties. M.b.v. Powerall Online kun je jouw klantrelaties beheren door alle relevante informatie over klanten op één plek te verzamelen en te centraliseren. Met deze info kan de relatie met de klant worden verbeterd, kunnen de behoeftes van de klant worden vervuld en kan jouw bedrijf op deze behoeftes inspelen m.b.v. marketing. Afbeelding 3: CRM-dashboard"
+  },
+  "dashboards/debiteur/deb1.html": {
+    "href": "dashboards/debiteur/deb1.html",
+    "title": "Hoe voeg ik een debiteur toe? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een debiteur toe? Navigeer naar het Debiteurendashboard. Druk op ‘Debiteuren’ in het menu Verkoopfacturen. Druk op ‘TOEVOEGEN’ rechtsboven in je scherm. Voer alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; Bedrijfsnaam en Adres. Druk rechts bovenin op de actiebutton ‘OPSLAAN’."
+  },
+  "dashboards/debiteur/deb10.html": {
+    "href": "dashboards/debiteur/deb10.html",
+    "title": "Hoe kan ik mijn openpostenlijst downloaden? (Crediteur) | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn openpostenlijst downloaden? (Crediteur) Navigeer naar het Crediteurendashboard. Druk op **‘Openpostenlijst’ in Open crediteurposten. Je kunt nu filters instellen aan de linkerkant van je scherm om de gewenste weergave van jouw openpostenlijst te verkrijgen. Druk vervolgens rechts bovenin ‘DOWNLOAD PDF’."
+  },
+  "dashboards/debiteur/deb2.html": {
+    "href": "dashboards/debiteur/deb2.html",
+    "title": "Hoe verwijder ik een debiteur? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik een debiteur? Navigeer naar het Debiteurendashboard. Druk op ‘Debiteuren’ in Verkoopfacturen. Je kunt nu specifieke voorwaarde stellen aan de weergave en het filteren van jouw relaties. Selecteer vervolgens jouw debiteur(s) m.b.v. van de witte vierkantjes links van jouw debiteur(s). Druk op ‘VERWIJDEREN’."
+  },
+  "dashboards/debiteur/deb3.html": {
+    "href": "dashboards/debiteur/deb3.html",
+    "title": "Wat betekent het blokkeren van een factuur? | Powerall.Online.Documentatie",
+    "keywords": "Wat betekent het blokkeren van een factuur? Het blokkeren van een factuur betekent dat de herinnering van deze factuur wordt geblokkeerd. Dit betekent dat deze niet meer wordt weergegeven bij het selecteren van facturen voor betaalherinneringen. Ook is het blokkeren van een factuur eventueel handig wanneer er verkeerde gegevens zijn ingevoerd bij de je factuur."
+  },
+  "dashboards/debiteur/deb4.html": {
+    "href": "dashboards/debiteur/deb4.html",
+    "title": "Hoe kan ik mijn geblokkeerde facturen inzien? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn geblokkeerde facturen inzien? Navigeer naar het Debiteurendashboard. Druk op ‘Geblokkeerde facturen’ in Verkoopfacturen. Je kunt nu een specifieke verkoopfactuur zoeken m.b.v. de zoekbalk en de filters aan de boven- en zijkant van je scherm."
+  },
+  "dashboards/debiteur/deb5.html": {
+    "href": "dashboards/debiteur/deb5.html",
+    "title": "Hoe blokkeer ik mijn facturen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe blokkeer ik mijn facturen? Navigeer naar het Debiteurendashboard. Druk op ‘Verkoophistorie’ in Verkoopfacturen. Je kunt nu een specifieke verkoopfactuur zoeken m.b.v. de zoekbalk en de filters aan de boven- en zijkant van je scherm. Dubbelklik op je verkoopfactuur. Druk op de 3 puntjes recht boven in je scherm, druk vervolgens op ‘Herinneringen blokkeren’."
+  },
+  "dashboards/debiteur/deb6.html": {
+    "href": "dashboards/debiteur/deb6.html",
+    "title": "Hoe kan ik mijn verkoopfactuur historie inzien? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn verkoopfactuur historie inzien? Navigeer naar het Debiteurendashboard. Druk op ‘Verkoophistorie’ in Verkoopfacturen."
+  },
+  "dashboards/debiteur/deb7.html": {
+    "href": "dashboards/debiteur/deb7.html",
+    "title": "Hoe kan ik mijn openpostenlijst downloaden? (Debiteur) | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn openpostenlijst downloaden? (Debiteur) Navigeer naar het Debiteurendashboard. Druk op ‘Openpostenlijst’ in Open debiteurposten. Je kunt nu filters instellen aan de linkerkant van je scherm om de gewenste weergave van jouw openpostenlijst te verkrijgen. Druk vervolgens rechts bovenin ‘DOWNLOAD PDF’."
+  },
+  "dashboards/debiteur/deb8.html": {
+    "href": "dashboards/debiteur/deb8.html",
+    "title": "Hoe kan ik mijn debiteurs de nog te verzenden facturen versturen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn debiteurs de nog te verzenden facturen versturen? Navigeer naar het Debiteurendashboard. Druk op ‘Te verzenden facturen’ in Open debiteurposten. Selecteer alle of door jou gekozen facturen m.b.v. de witte vierkantjes links van je facturen. Druk op ‘VERZEND’."
+  },
+  "dashboards/debiteur/deb9.html": {
+    "href": "dashboards/debiteur/deb9.html",
+    "title": "Hoe kan ik mijn debiteurs een betaalherinnering sturen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn debiteurs een betaalherinnering sturen? Navigeer naar het Debiteurendashboard. Druk op ‘Betaalherinneringen’ in Open debiteurposten. Je kunt nu filters instellen aan de linkerkant van je scherm om de gewenste weergave van jouw betaalherinneringen te verkrijgen. Druk op ‘VERZEND ALLE’ of druk op het papieren vliegtuigje rechts van een factuur."
+  },
+  "dashboards/debiteur/debdash.html": {
+    "href": "dashboards/debiteur/debdash.html",
+    "title": "Debiteuren Dashboard | Powerall.Online.Documentatie",
+    "keywords": "Debiteuren Dashboard Het debiteurendashboard geeft je een overzicht wat u binnen krijgt en binnen zal krijgen. Het debiteurendashboard geeft een overzicht rondom al je verkoopfacturen en jouw debiteuren, daarnaast weergeeft het dashboard ook jouw open debiteurposten, hierin kun je jouw openstaande facturen bekijken, nog te verzenden facturen inzien en versturen en jouw nog te versturen betaalherinneringen inzien met de mogelijkheid deze direct te versturen. Afbeelding 8: Debiteurendashboard"
+  },
+  "dashboards/financieel/fin1.html": {
+    "href": "dashboards/financieel/fin1.html",
+    "title": "Hoe maak ik een nieuwe journaalpost aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe maak ik een nieuwe journaalpost aan? Navigeer naar het dashboard financieel. Druk op ‘Nieuwe journaalpost' in het menu Journaalposten. Voer alle gegevens die je voor handen hebt in. a. Voorwaarden zijn; de balans die wordt opgemaakt door de Debet en Credit moet op 0 uitkomen, daarnaast moet bij elke rekening een omschrijving worden ingevoerd. Druk rechts bovenin op de actiebutton ‘OPSLAAN’."
+  },
+  "dashboards/financieel/fin11.html": {
+    "href": "dashboards/financieel/fin11.html",
+    "title": "Hoe exporteer ik mijn BTW-aangiftes? | Powerall.Online.Documentatie",
+    "keywords": "Hoe exporteer ik mijn BTW-aangiftes? Navigeer naar het Dashboard financieel. Druk op ‘BTW-aangiftes’ in BTW-aangiftes. Je kunt nu een specifieke termijn en/of voorwaardes kiezen voor een specifieke weergave van jouw BTW-aangiftes. Druk eventueel op de knop ‘KIES KOLOMMEN’ om de door jou gewenste kolommen uit te kiezen. Druk op ‘EXPORT’. Er verschijnt een menu waarbij je de kolommen moet kiezen die je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden."
+  },
+  "dashboards/financieel/fin12.html": {
+    "href": "dashboards/financieel/fin12.html",
+    "title": "Hoe gebruik ik de Klarna bankintegratie? | Powerall.Online.Documentatie",
+    "keywords": "Hoe gebruik ik de Klarna bankintegratie? Navigeer naar het Dashboard financieel. Druk op jouw ‘Bankrekening’ in Bankrekeningen. Druk rechts bovenin op ‘GEBRUIK DE BANKINTEGRATIE’. Druk vervolgens op doorgaan. Hierna word je doorverwezen naar je bank, waarna na enkele vervolgstappen je bankrekening en zijn transacties worden geïntegreerd."
+  },
+  "dashboards/financieel/fin13.html": {
+    "href": "dashboards/financieel/fin13.html",
+    "title": "Hoe wijzig ik een transactie? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik een transactie? Navigeer naar het Dashboard financieel. Druk op jouw ‘Bankrekening’ in Bankrekeningen. Druk rechts bovenin op ‘WIJZIGEN’. Pas je transactie aan. Druk rechts bovenin op ‘OPSLAAN’."
+  },
+  "dashboards/financieel/fin14.html": {
+    "href": "dashboards/financieel/fin14.html",
+    "title": "Hoe importeer ik transacties? | Powerall.Online.Documentatie",
+    "keywords": "Hoe importeer ik transacties? Navigeer naar het Dashboard financieel. Druk op jouw ‘Bankrekening’ in Bankrekeningen. Druk rechts bovenin op ‘IMPORTEER’. Upload je bestand. Druk op ‘IMPORTEER’."
+  },
+  "dashboards/financieel/fin15.html": {
+    "href": "dashboards/financieel/fin15.html",
+    "title": "Hoe wijzig ik mijn bankrekening? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik mijn bankrekening? Navigeer naar het Dashboard financieel. Druk op jouw ‘Bankrekening’ in Bankrekeningen. Druk op de 3 puntjes rechtsboven in je scherm. Druk vervolgens op ‘Wijzig bankrekening’."
+  },
+  "dashboards/financieel/fin16.html": {
+    "href": "dashboards/financieel/fin16.html",
+    "title": "Hoe wijzig ik mijn bankrekening? | Powerall.Online.Documentatie",
+    "keywords": "Hoe wijzig ik mijn bankrekening? Navigeer naar het Dashboard financieel. Druk op jouw ‘Bankrekening’ in Bankrekeningen. Druk op de 3 puntjes rechtsboven in je scherm. Druk vervolgens op ‘Wijzig bankrekening’."
+  },
+  "dashboards/financieel/fin2.html": {
+    "href": "dashboards/financieel/fin2.html",
+    "title": "Hoe kan ik mijn vorige journaalposten inzien? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn vorige journaalposten inzien? Navigeer naar het dashboard financieel. Druk op ‘Journaalposten' in het menu Werkbonnen. Je kunt nu een specifieke journaalpost zoeken m.b.v. de zoekbalk en filters aan de boven- en zijkant van je scherm."
+  },
+  "dashboards/financieel/fin3.html": {
+    "href": "dashboards/financieel/fin3.html",
+    "title": "Hoe kan ik mijn journaalposten wijzigen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn journaalposten wijzigen? Navigeer naar het Dashboard financieel. Druk op ‘Journaalposten´ in het menu Journaalposten. Zoek je journaalpost zoeken m.b.v. de zoekbalk en filters aan de boven- en zijkant van je scherm. Dubbelklik op jouw journaalpost. a. Is jouw type journaalpost Handmatig? Dan kun je jouw journaalpost direct aanpassen. b. Is jouw type journaalpost iets anders dan handmatig? Dan kun je jouw journaalpost niet direct wijzigen. Druk op een van de bijbehorende documenten om, als dit nog mogelijk is, eventuele informatie aan te passen."
+  },
+  "dashboards/financieel/fin4.html": {
+    "href": "dashboards/financieel/fin4.html",
+    "title": "Hoe verwijder ik journaalposten? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik journaalposten? Navigeer naar het Dashboard financieel. Druk op ‘Journaalposten´ in het menu Journaalposten. Zoek je journaalpost zoeken m.b.v. de zoekbalk en filters aan de boven- en zijkant van je scherm. Dubbelklik op jouw journaalpost. a. Is jouw type journaalpost handmatig? Dan kun je jouw journaalpost direct verwijderen. b. Is jouw type journaalpost iets anders? Dan kun je jouw journaalpost niet direct verwijderen. Druk op een van de bijbehorende documenten om, als dit nog mogelijk is, eventuele informatie te verwijderen/aan te passen. Note Let op, wanneer je documenten uit een journaalpost gaat aanpassen. Is het belangrijk dat de balans in de journaalpost op 0 blijft."
+  },
+  "dashboards/financieel/fin5.html": {
+    "href": "dashboards/financieel/fin5.html",
+    "title": "Hoe exporteer ik journaalposten? | Powerall.Online.Documentatie",
+    "keywords": "Hoe exporteer ik journaalposten? Navigeer naar het Dashboard financieel. Druk op ‘Journaalposten’ in Journaalposten. Je kunt nu een specifieke termijn en/of voorwaardes kiezen voor een specifieke weergave van jouw journaalposten. Druk eventueel op de knop ‘KIES KOLOMMEN’ om de door jou gewenste kolommen uit te kiezen. Druk op ‘EXPORT’. Er verschijnt een menu waarbij je de kolommen moet kiezen die je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden."
+  },
+  "dashboards/financieel/fin6.html": {
+    "href": "dashboards/financieel/fin6.html",
+    "title": "Hoe exporteer ik grootboekmutaties? | Powerall.Online.Documentatie",
+    "keywords": "Hoe exporteer ik grootboekmutaties? Navigeer naar het Dashboard financieel. Druk op ‘Grootboekmutaties’ in Grootboekmutaties. Je kunt nu een specifieke termijn en/of voorwaardes kiezen voor een specifieke weergave van jouw grootboekmutaties. Druk eventueel op de knop ‘KIES KOLOMMEN’ om de door jou gewenste kolommen uit te kiezen. Druk op ‘EXPORT’. Er verschijnt een menu waarbij je de kolommen moet kiezen die je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden."
+  },
+  "dashboards/financieel/fin7.html": {
+    "href": "dashboards/financieel/fin7.html",
+    "title": "Hoe maak ik een nieuwe kasboeking aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe maak ik een nieuwe kasboeking aan? Navigeer naar het Dashboard financieel. Druk op ‘Nieuwe Kasboeking' in het menu Kasboekingen. Voer alle gegevens die je voor handen hebt in. a. Voorwaarden zijn; de balans die wordt opgemaakt door de Debet en Credit moet op 0 uitkomen, daarnaast moet bij algemeen een omschrijving en bij elke rekening een omschrijving worden ingevoerd. Druk rechts bovenin op de actiebutton ‘OPSLAAN’."
+  },
+  "dashboards/financieel/fin8.html": {
+    "href": "dashboards/financieel/fin8.html",
+    "title": "Hoe exporteer ik journaalposten? | Powerall.Online.Documentatie",
+    "keywords": "Hoe exporteer ik journaalposten? Navigeer naar het Dashboard financieel. Druk op ‘Kasboekingen’ in Kasboekingen. Je kunt nu een specifieke termijn en/of voorwaardes kiezen voor een specifieke weergave van jouw kasboekingen. Druk eventueel op de knop ‘KIES KOLOMMEN’ om de door jou gewenste kolommen uit te kiezen. Druk op ‘EXPORT’. Er verschijnt een menu waarbij je de kolommen moet kiezen die je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden."
+  },
+  "dashboards/financieel/fin9.html": {
+    "href": "dashboards/financieel/fin9.html",
+    "title": "Hoe download ik een rapport? | Powerall.Online.Documentatie",
+    "keywords": "Hoe download ik een rapport? Navigeer naar het Dashboard financieel. Druk op ‘Journaalposten rapport’ of ‘Rapport grootboekmutaties’ of ‘Proef- en saldibalans' of ‘Kolommenbalans' of ‘Winst & Verlies‘ in Kasboekingen. Je kunt nu een specifieke termijn en/of voorwaardes kiezen voor een specifieke weergave van jouw kasboekingen. Druk op ‘DOWNLOAD PDF’."
+  },
+  "dashboards/financieel/financieeldash.html": {
+    "href": "dashboards/financieel/financieeldash.html",
+    "title": "Financieel Dashboard | Powerall.Online.Documentatie",
+    "keywords": "Financieel Dashboard Het financiële dashboard geeft je veel mogelijke taken om uit te voeren. Daarnaast geeft het je ook veel opties tot inzicht en overzicht. Dit dashboard geeft u maar een enkel overzicht, namelijk jouw bankrekeningen en het daar bij horende saldo na boeking. Daarnaast zie je (mogelijk) openstaande taken bij de btw-aangiftes in de vorm van een icoontje. Afbeelding 7: Financieel dashboard Hetgeen wat je op deze pagina ziet is interactief. De onderdelen met de daarbij behorende menu’s zijn hieronder weergegeven; Journaalposten Nieuwe journaalpost Journaalposten Grootboekmutaties Kasboekingen Nieuwe kasboeking Kasboekingen Rapporten Journaalposten rapport Rapport grootboekmutaties Proef- en saldibalans Kolommenbalans Winst & Verlies Btw-aangiftes Btw-aangiftes Concept BTW-aangifte Bankrekeningen"
+  },
+  "dashboards/home/home1.html": {
+    "href": "dashboards/home/home1.html",
+    "title": "Waar vind ik mijn instellingen? | Powerall.Online.Documentatie",
+    "keywords": "Waar vind ik mijn instellingen? Klik op jouw gebruikersnaam rechtsboven in je scherm. Hier kun je vervolgens kiezen uit; a. Administratie instellingen b. Globale instellingen c. Mijn voorkeuren"
+  },
+  "dashboards/home/home2.html": {
+    "href": "dashboards/home/home2.html",
+    "title": "Hoe navigeer ik naar een ander dashboard? | Powerall.Online.Documentatie",
+    "keywords": "Hoe navigeer ik naar een ander dashboard? Gebruik het navigatiemenu wat zich aan de linkerkant van je scherm bevindt. Door met je cursor over de icoontjes te zweven kun je de desbetreffende dashboards zien. Ook kun je direct op het home-dashboard op een van de grotere iconen klikken, ook deze verwijzen je direct door naar de desbetreffende dashboards. Door op een van deze icoontjes te klikken kom je bij de desbetreffende dashboards."
+  },
+  "dashboards/home/homedash.html": {
+    "href": "dashboards/home/homedash.html",
+    "title": "Home Dashboard | Powerall.Online.Documentatie",
+    "keywords": "Home Dashboard Dit is de pagina waar alles in een oogopslag zichtbaar is. Zowel alle dashboards als openstaande taken zijn direct zichtbaar op het home dashboard, met daarbij de mogelijkheid om eventuele favorieten menu-items toe te voegen aan dit overzicht. Je ziet hier ook een aantal icoontjes aan de linkerkant van het scherm, dit is het navigatiemenu wat je naar alle andere dashboards brengt. Afbeelding 1: Home-dashboard 1: Alle dashboards. 2: Favoriete menu. 3: Openstaande taken. 4: Navigatiemenu"
+  },
+  "dashboards/management/managementdash.html": {
+    "href": "dashboards/management/managementdash.html",
+    "title": "Management Dashboard | Powerall.Online.Documentatie",
+    "keywords": "Management Dashboard Deze pagina dient als overzicht rondom alle financiële zaken omtrent jouw bedrijf. Afbeelding 2: Managementdashboard Op deze pagina heb je namelijk gelijk een beeld van de stand van zaken rondom jouw financiën. Deze pagina is bedoeld als overzicht, je ziet daarom boven in je beeld de nodige informatievlakken; De omzet Het brutoresultaat Te ontvangen (geld) Te betalen (geld) Te betalen BTW Bank/ kas saldo De opgenoemde punten hierboven zijn bedoeld als overzicht en zijn non-interactief, je kunt hier dus niet op klikken. Hetgeen wat je onder deze ziet is wel interactief en verwijst jou dus naar een ander dashboard. De onderdelen met het daarbij behorende dashboard zijn hieronder weergegeven; Bankrekeningen, een compact overzicht van het saldo van de rekeningen. Zie Financieel dashboard voor meer info over bankrekeningen. Top 5 klanten, een overzicht van de top 5 klanten binnen jouw bedrijf. Zie CRM-dashboard voor meer info over klantenrelaties. Open debiteurposten, een compact overzicht van jouw debiteurendashboard. Zie debiteurendashboard voor meer info over debiteurposten. Open crediteurposten, een compact overzicht van jouw crediteurendashboard. Zie crediteurendashboard voor meer info over crediteurenposten. Recente verkooporders, een compact overzicht van de meest recente verkooporders binnen jouw bedrijf. Zie Orders dashboard voor meer info over (verkoop)orders. Omzetontwikkeling, een overzicht van jouw omzetontwikkeling van het huidige jaar. Recente werkbonnen, een overzicht van jouw recente werkbonnen. Zie Service dashboard voor meer info over service."
+  },
+  "dashboards/onderdelen/ond1.html": {
+    "href": "dashboards/onderdelen/ond1.html",
+    "title": "Hoe voeg ik een nieuw artikel toe aan mijn onderdelen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een nieuw artikel toe aan mijn onderdelen? Navigeer naar het Onderdelen-dashboard. Druk op ‘Nieuw artikel’ in het menu Artikelen. Voer alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de Artikelcode, Omschrijving en Omzetgroep. Druk vervolgens op ‘OPSLAAN’ om jouw nieuwe artikel op te slaan."
+  },
+  "dashboards/onderdelen/ond2.html": {
+    "href": "dashboards/onderdelen/ond2.html",
+    "title": "Hoe kan ik gegevens van mijn artikelen inzien/aanpassen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik gegevens van mijn artikelen inzien/aanpassen? Navigeer naar het Onderdelen-dashboard. Druk op ‘Artikelen´ in het menu Artikelen. Zoek je Artikel. a. Met behulp van de zoekbalk midden boven in je scherm. b. Met behulp van filters aan de linkerzijde van je scherm. Dubbelklik op jouw Artikel. Navigeer via het bovenste menu naar de gegevens die je wilt inzien/aanpassen. Je hebt hier enkele keuzes: a. Algemeen, Kenmerken, Leveranciers, Verkooporders en Werkbonnen."
+  },
+  "dashboards/onderdelen/ond3.html": {
+    "href": "dashboards/onderdelen/ond3.html",
+    "title": "Hoe voeg ik een nieuwe Leverancier toe aan mijn onderdelen/catalogus? | Powerall.Online.Documentatie",
+    "keywords": "Hoe voeg ik een nieuwe Leverancier toe aan mijn onderdelen/catalogus? Navigeer naar het Onderdelen-dashboard. Druk op ‘Nieuw leveranciers’ in het menu Leveranciers. a. Voer alle gegevens die je voor handen hebt in. Verplichte gegevens zijn; de Naam en Relatie. Druk vervolgens op ‘OPSLAAN’ om jouw nieuwe Leverancier op te slaan."
+  },
+  "dashboards/onderdelen/ond4.html": {
+    "href": "dashboards/onderdelen/ond4.html",
+    "title": "Hoe kan ik gegevens van mijn Leveranciers inzien/aanpassen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik gegevens van mijn Leveranciers inzien/aanpassen? Navigeer naar het Onderdelen-dashboard. Druk op ‘Leveranciers´ in het menu Leveranciers. Zoek je Leverancier. a. Met behulp van de zoekbalk midden boven in je scherm. b. Met behulp van filters aan de linkerzijde van je scherm. Dubbelklik op jouw Leverancier. a. Hier kun jij jouw relatie, integratie instellingen en catalogus inzien en wijzigen."
+  },
+  "dashboards/onderdelen/ond5.html": {
+    "href": "dashboards/onderdelen/ond5.html",
+    "title": "Waar is de Catalogusbrowser? | Powerall.Online.Documentatie",
+    "keywords": "Waar is de Catalogusbrowser? Navigeer naar het Onderdelen dashboard. Druk op ‘Catalogusbrowser´ in het menu Leveranciers."
+  },
+  "dashboards/onderdelen/onderdelendash.html": {
+    "href": "dashboards/onderdelen/onderdelendash.html",
+    "title": "Onderdelen Dashboard | Powerall.Online.Documentatie",
+    "keywords": "Onderdelen Dashboard Op het onderdelen dashboard krijg je een overzicht te zien van je top 10 meest verkochte artikelen. Ook kun je hier nieuwe artikelen toevoegen en al bestaande artikelen bekijken en beheren. Daarnaast kun je nieuwe leveranciers toevoegen en al bestaande leveranciers bekijken en beheren. Eveneens kun je ook direct bij onze catalogusbrowser. Afbeelding 5: Onderdelen dashboard"
+  },
+  "dashboards/orders/ord1.html": {
+    "href": "dashboards/orders/ord1.html",
+    "title": "Hoe maak ik een nieuwe verkooporder aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe maak ik een nieuwe verkooporder aan? Navigeer naar het Orders-dashboard. Druk op ‘Nieuwe verkooporders’ in het menu Verkooporder. Voer jouw algemene informatie en factuuradres in en kies je artikelen. a. Wil je bestellen? Druk dan op ‘OPSLAAN EN FACTUREREN’. b. Wil je leveren? Druk dan op ‘OPSLAAN EN LEVEREN’. c. Wil je de verkooporder als concept bewaren? Druk dan op ‘OPSLAAN’. d. Wil je de artikelen via de leveranciers-webshop? Druk dan op ‘BESTEL ARTIKELEN VIA DE LEVERANCIERS-WEBSHOP’. Navigeer naar het Orders-dashboard. Druk op ‘Nieuwe verkooporders’ in het menu Verkooporder. Voer jouw algemene informatie en factuuradres in en kies je artikelen. a. Verplichte gegevens zijn Factuuradres en Artikel. Bestel je artikel: a. Wil je bestellen? Druk dan op ‘OPSLAAN EN FACTUREREN’. b. Wil je leveren? Druk dan op ‘OPSLAAN EN LEVEREN’. c. Wil je de verkooporder als concept bewaren? Druk dan op ‘OPSLAAN’. d. Wil je de artikelen bestellen via de leveranciers-webshop? Druk dan op ‘BESTEL ARTIKELEN VIA DE LEVERANCIERS-WEBSHOP’."
+  },
+  "dashboards/orders/ord2.html": {
+    "href": "dashboards/orders/ord2.html",
+    "title": "Hoe verwerk ik mijn nog openstaande verkooporders? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwerk ik mijn nog openstaande verkooporders? Navigeer naar het Orders-dashboard. Druk op ‘Openstaande verkooporders’ in het menu Verkooporder. Je kunt nu een specifieke verkooporder zoeken m.b.v. de zoekbalk en de filters aan de boven- en zijkant van je scherm. Dubbelklik op een verkooporder. Voor de verwerking heb je 4 keuzes a. Wil je bestellen? Druk dan op ‘OPSLAAN EN FACTUREREN’. b. Wil je leveren? Druk dan op ‘OPSLAAN EN LEVEREN’. c. Je kunt de verkooporder ook ‘WIJZIGEN’ of ‘VERWIJDEREN’ d. Overige opties zijn toegankelijk via de 3 puntjes rechtsboven in je scherm; ‘Download PDF’ en ´Dupliceren’."
+  },
+  "dashboards/orders/ord3.html": {
+    "href": "dashboards/orders/ord3.html",
+    "title": "Hoe kan ik mijn vorige verkooporders inzien? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn vorige verkooporders inzien? Navigeer naar het Orders-dashboard. Druk op ‘Verkooporder historie’ in het menu Verkooporder. Je kunt nu een specifieke verkooporder zoeken m.b.v. de zoekbalk en filters aan de boven- en zijkant van je scherm."
+  },
+  "dashboards/orders/ordersdash.html": {
+    "href": "dashboards/orders/ordersdash.html",
+    "title": "Orders Dashboard | Powerall.Online.Documentatie",
+    "keywords": "Orders Dashboard Op dit dasboard kun je al jouw openstaande verkooporders en jouw gemiddelde orderwaarde direct bekijken. Ook kun je hier openstaande en historische verkooporders inzien, daarnaast kun je hier ook direct nieuwe verkooporders aanmaken. Door het menu te gebruiken voor openstaande verkooporders, houd u een goed overzicht rondom uw al verwerkte orders en orders die nog verwerkt moeten worden. Afbeelding 4: Orders-dashboard"
+  },
+  "dashboards/service/ser1.html": {
+    "href": "dashboards/service/ser1.html",
+    "title": "Hoe maak ik een nieuwe werkbon aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe maak ik een nieuwe werkbon aan? Navigeer naar het servicedashboard. Druk op ‘Nieuwe werkbon’ in het menu Werkbonnen. Voer alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de relatietype, referentie, BTW type en factuuradres. Druk rechts bovenin op de actiebutton ‘OPSLAAN’."
+  },
+  "dashboards/service/ser2.html": {
+    "href": "dashboards/service/ser2.html",
+    "title": "Hoe verwerk ik mijn nog openstaande werkbonnen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwerk ik mijn nog openstaande werkbonnen? Navigeer naar het Orders-dashboard. Druk op ‘Openstaande werkbonnen’ in het menu Werkbonnen. Je kunt nu een specifieke werkbon zoeken m.b.v. de zoekbalk en de filters aan de boven- en zijkant van jouw scherm. Dubbelklik op een verkooporder. Voor de verwerking heb je 4 keuzes a. Wil je jouw werkbon factureren? Druk dan op ‘FACTUREREN’. b. Wil je jouw werkbon wijzigen? Druk dan op ‘WIJZIGEN’. c. Wil je jouw werkbon verwijderen? Druk dan op ‘VERWIJDEREN’. d. Overige opties zijn toegankelijk via de 3 puntjes rechtsboven in je scherm; ‘Download PDF’ en ´Markeer als verwerkt’."
+  },
+  "dashboards/service/ser3.html": {
+    "href": "dashboards/service/ser3.html",
+    "title": "Hoe kan ik mijn vorige werkbonnen inzien? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn vorige werkbonnen inzien? Navigeer naar het Servicedashboard. Druk op ‘Werkbonhistorie’ in het menu Werkbonnen. Je kunt nu een specifieke werkbon zoeken m.b.v. de zoekbalk en filters aan de boven- en zijkant van je scherm."
+  },
+  "dashboards/service/ser4.html": {
+    "href": "dashboards/service/ser4.html",
+    "title": "Hoe kan ik mijn urenrapport inzien en downloaden? | Powerall.Online.Documentatie",
+    "keywords": "Hoe kan ik mijn urenrapport inzien en downloaden? Navigeer naar het Servicedashboard. Druk op ‘Urenrapport’ in het menu Werkbonnen. Je kunt nu verschillende urenrapporten zoeken m.b.v. de zoekbalk en filters aan de zijkant van je scherm. Vervolgens kun je rechts bovenin op ‘DOWNLOAD PDF’ drukken om het overzicht dat jij voor je hebt te downloaden. a. Deze PDF past zich aan jouw toegepaste filters aan."
+  },
+  "dashboards/service/ser5.html": {
+    "href": "dashboards/service/ser5.html",
+    "title": "Hoe importeer/exporteer ik werkbonnen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe importeer/exporteer ik werkbonnen? Navigeer naar het Servicedashboard. Druk op ‘Openstaande werkbonnen’ Of ‘Werkbon historie’ (afhankelijk van jouw keuze) in het menu Werkbonnen. Je kunt nu een specifieke werkbon zoeken m.b.v. de zoekbalk en de filters aan de boven- en zijkant van je scherm. Druk eventueel op de knop ‘KIES KOLOMMEN’ om de door jou gewenste kolommen uit te kiezen. Selecteer je werkbon(nen) m.b.v. de witte vierkantjes links van jouw werkbon(nen). Druk op ‘EXPORT’ Er verschijnt een menu waarbij je de kolommen moet kiezen die je wilt exporteren. Recht onderin heb je vervolgens 3 exportopties: 'PDF’, ‘EXCEL’ en ‘CSV’. a. PDF: Je krijgt een printvoorbeeld te zien, druk op opslaan om deze te downloaden. b. EXCEL: wordt direct gedownload, ingedeeld in kolommen. c. CSV: wordt direct gedownload, door komma’s gescheiden."
+  },
+  "dashboards/service/ser6.html": {
+    "href": "dashboards/service/ser6.html",
+    "title": "Hoe verwijder ik werkbonnen? | Powerall.Online.Documentatie",
+    "keywords": "Hoe verwijder ik werkbonnen? Navigeer naar het Servicedashboard Druk op ‘Openstaande werkbonnen’ Of ‘Werkbon historie’ (afhankelijk van jouw keuze) in het menu Werkbonnen. Je kunt nu een specifieke werkbon zoeken m.b.v. de zoekbalk en de filters aan de boven- en zijkant van je scherm. Selecteer je werkbon(nen) m.b.v. de witte vierkantjes links van jouw werkbon(nen). Druk op ‘VERWIJDEREN’."
+  },
+  "dashboards/service/servicedash.html": {
+    "href": "dashboards/service/servicedash.html",
+    "title": "Service Dashboard | Powerall.Online.Documentatie",
+    "keywords": "Service Dashboard Op het Servicedashboard krijg je een overzicht te zien van je openstaande werkbonnen, omzetontwikkeling, serviceobjecten en alles wat daarbij komt kijken. Je kunt hier nieuwe werkbonnen toevoegen en openstaande werkbonnen bekijken en beheren. Daarnaast kun jij ook jouw werkbon historie bekijken, serviceobjecten toevoegen en beheren. Eveneens kun jij ook direct bij jouw urenrapporten. Tot slot worden er ook nog eens financiële overzichten weergegeven. Afbeelding 6: servicedashboard Op deze pagina heb je gelijk een beeld van de stand van zaken rondom de financiën; Openstaande werkbonnen Onderhanden werk Materiaal/ Uren (Verhouding (percentage) materiaal en uren voor de laatste 12 maanden). Gemiddelde orderwaarde (Gemiddeld bedrag van werkbonnen in de laatste 12 maanden). Omzetontwikkeling vanuit werkbonnen (diagram) Deze overzichten zijn bedoeld als overzicht en zijn non-interactief, je kunt hier dus niet op klikken. Het overige wat je op deze pagina ziet is wel interactief. De onderdelen met de daarbij behorende menu’s zijn hieronder weergegeven; Werkbonnen Nieuwe werkbon Openstaande werkbonnen Werkbon historie Urenrapport Serviceobjecten Serviceobject toevoegen Serviceobjecten"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Powerall Online. | Powerall.Online.Documentatie",
+    "keywords": "Powerall Online. Bever automatisering Inleiding. Powerall Online, het product waar je altijd inzicht en overzicht heeft rondom jouw bedrijfszaken. Met verschillende handige functies, zoals het inscannen en herkennen van je facturen of makkelijke koppeling met jouw leveranciers, waar je als bedrijf veel aan heeft. Dit document is een volledige documentatie van Powerall Online, om jou een helder en duidelijker beeld te geven van ons product en diens functies."
+  },
+  "licenties/lic1.html": {
+    "href": "licenties/lic1.html",
+    "title": "Licenties | Powerall.Online.Documentatie",
+    "keywords": "Licenties Hoofdmenu (tekst ontbreekt)"
+  },
+  "licenties/lic2.html": {
+    "href": "licenties/lic2.html",
+    "title": "Hoe pas ik mijn licentie aan? | Powerall.Online.Documentatie",
+    "keywords": "Hoe pas ik mijn licentie aan? Klik op jouw gebruikersnaam rechtsboven in je scherm. Selecteer uit het submenu dat ontstaat………"
+  },
+  "quick-start/Quick-start.html": {
+    "href": "quick-start/Quick-start.html",
+    "title": "Quick-start Powerall online | Powerall.Online.Documentatie",
+    "keywords": "Quick-start Powerall online Welkom bij de Quick Start Guide voor Powerall Online. Deze gids zal je helpen om snel en gemakkelijk aan de slag te gaan met onze software. Powerall Online is een nieuwe softwaretoepassing die jou helpt bij al jouw bedrijfszaken. De software is ontworpen om het jou een stukje makkelijker te maken. Het enige wat je nodig hebt is een licentie en een computer, tablet of telefoon! In deze gids vind je de eerste stappen die je moet zetten om te beginnen. Wil je meer informatie of heb je specifieke vragen over Powerall Online? Dan kun je onze overige documentatie raadplegen."
+  },
+  "quick-start/qs1.html": {
+    "href": "quick-start/qs1.html",
+    "title": "Hoe werkt de interface? | Powerall.Online.Documentatie",
+    "keywords": "Hoe werkt de interface? Zodra je inlogt op Powerall Online, kom je op het home dashboard terecht. Deze ziet er als volgt uit: Op deze pagina heb je direct toegang tot jouw financiële en service gerelateerde zaken. Ook kun je al je openstaande taken direct inzien en met behulp van een paar klikken oplossen. Rechtsboven in het dashboard kun je door op je naam te klikken jouw account, instellingen en voorkeuren beheren. In het midden van je scherm zie je alle dashboards in jouw pakket, deze zie je ook, verticaal opgesteld, links in je scherm. In het blauwe vakje zie je jouw openstaande taken. Door op een van de meldingen van de openstaande taken te klikken kun je jouw taken binnen een paar klikken uitvoeren. Zodra je een taak gaat uitvoeren bevinden alle actiebuttons zich rechts bovenin je scherm. Daarover meer op de volgende pagina. Klik hier voor meer uitleg rondom het home dashboard."
+  },
+  "quick-start/qs10.html": {
+    "href": "quick-start/qs10.html",
+    "title": "Het toevoegen van nieuwe klantenrelaties. | Powerall.Online.Documentatie",
+    "keywords": "Het toevoegen van nieuwe klantenrelaties. Je hebt al je klantrelaties waarschijnlijk al geïmporteerd, zelf of d.m.v. een auditfile. Heb je dit nog niet gedaan? Zie dan het kopje ‘Importeren van gegevens’. Als je daarentegen een nieuw klantenrelatie wil toevoegen, kan dit vrij makkelijk en snel: Navigeer naar het CRM-dashboard. Druk op ‘Nieuwe relatie’, in het menu CRM. Vul alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; (bedrijfs)naam en het adres van jouw relatie. Druk rechts bovenin op de actiebutton ‘OPSLAAN’."
+  },
+  "quick-start/qs11.html": {
+    "href": "quick-start/qs11.html",
+    "title": "Het aanmaken van een verkooporder en toevoegen artikel. | Powerall.Online.Documentatie",
+    "keywords": "Het aanmaken van een verkooporder en toevoegen artikel. Voor het aanmaken van de verkooporder zijn er enkele simpele stappen nodig: Navigeer naar het Orders-dashboard. Druk op ‘Nieuwe verkooporders’ in het menu Verkooporder. Voer jouw algemene informatie en factuuradres in en kies je artikelen. a. Verplichte gegevens zijn; factuuradres en artikel. Bestel je artikel: a. Wil je bestellen? Druk dan op ‘OPSLAAN EN FACTUREREN’. b. Wil je leveren? Druk dan op ‘OPSLAAN EN LEVEREN’. c. Wil je de verkooporder als concept bewaren? Druk dan op ‘OPSLAAN’. d. Wil je de artikelen bestellen via de leveranciers-webshop? Druk dan op ‘BESTEL ARTIKELEN VIA DE LEVERANCIERS-WEBSHOP’. Tijdens het aanmaken van je verkooporder kom je er misschien achter dat je een artikel niet direct kan vinden. Om dit op te lossen kun je onderaan deze lijst die verschijnt bij het toevoegen van een artikel, op ‘Maak nieuw artikel’ drukken. Zodra je je gegevens hebt ingevoerd (verplichte gegevens: omschrijving, omzetgroep & artikelcode) en op opslaan hebt gedrukt, zal je weer terug worden verwezen naar je verkooporder. Hier kun je je nieuwe aangemaakte artikel toevoegen aan je verkooporder om vervolgens je verkooporder te verwerken. In een ander geval wil je je artikel van tevoren toevoegen aan je onderdelen, dit doe je met de volgende stappen: Navigeer naar het Onderdelen-dashboard. Druk op ‘Nieuw artikel’ in het menu Artikelen. Voer alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de Artikelcode, Omschrijving en Omzetgroep. Druk vervolgens op ‘OPSLAAN’ om jouw nieuwe artikel op te slaan."
+  },
+  "quick-start/qs2.html": {
+    "href": "quick-start/qs2.html",
+    "title": "Hoe werken de actiebuttons? | Powerall.Online.Documentatie",
+    "keywords": "Hoe werken de actiebuttons? In Powerall Online bevinden zich meerdere actiebuttons. Een actiebutton is een knop waarmee je een bepaalde actie uitvoert. Wat daarom goed is om te weten, is dat de actiebuttons zich altijd rechts bovenin jouw scherm bevinden. Om een goed overzicht te creëren is hieronder een lijst weergegeven met de meest gebruikte actiebuttons. Enkele actiebuttons zullen in sommige situaties van de standaarden afwijken. Wanneer je jezelf bijvoorbeeld tussen de inkoopfacturen inbox bevindt, zal je zien dat er i.p.v. Toevoegen en Annuleren nu Afwijzen en Aanmaken staat. Essentieel vervullen deze dezelfde functie, het enige verschil is de context en daarmee ook de benaming anders is. Klik hier voor meer uitleg rondom de actiebuttons."
+  },
+  "quick-start/qs3.html": {
+    "href": "quick-start/qs3.html",
+    "title": "De verschillende dashboards | Powerall.Online.Documentatie",
+    "keywords": "De verschillende dashboards Powerall online beschikt over verschillende functies, verdeeld over verschillende dashboards. Home: Home is de pagina waar je na inloggen telkens als eerste terecht komt. Op deze pagina kun je in één klik navigeren naar een ander dashboard. Ook kun je jouw openstaande taken bekijken en direct behandelen, daarnaast kun je eventuele subonderdelen van Powerall toevoegen aan jouw favorieten voor snellere toegang tot bepaalde taken en/of overzichten. Managementdashboard: Het managementdashboard is bedoeld als een makkelijk overzicht rondom al jouw financiële zaken. CRM: CRM, oftewel Custom Relationship Management, is de pagina die gaat over klantenrelaties. Op deze pagina kun je klantenrelaties toevoegen en jouw al bestaande relaties inzien. Orders: Hier kun je verkooporders aanmaken, openstaande verkooporders en historische verkooporders inzien. Onderdelen: Op deze pagina kun je jouw artikelen en leveranciers inzien en eventueel ook nieuwe leveranciers of artikelen toevoegen. Ook kun je hier direct bij de catalogusbrowser. Service: Deze pagina is bedoeld om alle, door jou geleverde services, te verwerken. Denk bijvoorbeeld aan het inzien en toevoegen van werkbonnen en serviceobjecten. Financieel: In het financiële dashboard kun je al je financiële zaken regelen en inzien. Zowel journaalposten, kasboekingen en rapporten als BTW-aangiftes zijn toegankelijk vanaf deze pagina. Debiteur- en crediteur: Deze 2 pagina’s zijn bedoeld rondom het inzien, aanmaken en goedkeuren van in- en verkoopfacturen. Configuratie: In het configuratiedashboard kun je de instellingen en weergave van bepaalde overzichten en taken aanpassen. Ook kun je vanaf hier makkelijk tabellen exporteren. Klik hier voor meer info rondom dashboards."
+  },
+  "quick-start/qs4.html": {
+    "href": "quick-start/qs4.html",
+    "title": "Het beginnen met Powerall Online | Powerall.Online.Documentatie",
+    "keywords": "Het beginnen met Powerall Online Ga naar powerall.nl en vul je gegevens in. Bevestig je aanmelding via jouw e-mailadres en log in. Je komt vervolgens op een scherm met als titel ‘Hoe wil je beginnen?’. Je hebt hierbij 2 keuzes; je kan een auditfile importeren of je kan beginnen met een lege administratie. Nadat je deze keuze hebt gemaakt, ben je klaar om te beginnen."
+  },
+  "quick-start/qs5.html": {
+    "href": "quick-start/qs5.html",
+    "title": "De Quick Launch | Powerall.Online.Documentatie",
+    "keywords": "De Quick Launch Je hebt 2 manieren om te zoeken in Powerall Online. Je hebt de zoekbalk bovenin je scherm, deze is gericht op relaties, artikelen, serviceobjecten en documenten, deze is dus bedoelt voor het zoeken van gegevens. De andere manier van zoeken is de Quick Launch, die jou naar je dashboard, taak of menu brengt, deze is bedoeld als snelle navigatie binnen Powerall Online. De Quick Launch bevind zich links onderin je scherm met het icoontje >_ . Ook is er een sneltoets voor Quick Launch beschikbaar: CTRL + SPATIE. Wanneer we het in deze gids hebben over navigeren, kan dit door zelf te navigeren of m.b.v. gebruik van de Quick Launch."
+  },
+  "quick-start/qs6.html": {
+    "href": "quick-start/qs6.html",
+    "title": "De instellingen | Powerall.Online.Documentatie",
+    "keywords": "De instellingen Voordat je begint met het gebruiken van Powerall Online, is het slim om even naar je administratieve instellingen te kijken. Deze vind je rechts bovenin, zodra je op je gebruikersnaam klikt, in het uitklapmenu dat dan ontstaat. Het is handig om alle administratieve instellingen even door te kijken, hier kom je er waarschijnlijk achter dat je nog geen bedrijfslogo hebt geüpload. Het is wel handig om dit te doen, aangezien dit logo op al je facturen wordt gebruikt. Ook zie je mogelijk dat je ‘Rekeningen BTW-aangifte’ volledig leeg zijn. Ook dit is handig om even in te vullen, omdat je hier anders in later gebruik van Powerall Online tegenaan loopt. Voor meer informatie over de instellingen, zie de overige documentatie."
+  },
+  "quick-start/qs7.html": {
+    "href": "quick-start/qs7.html",
+    "title": "Het importeren van gegevens. | Powerall.Online.Documentatie",
+    "keywords": "Het importeren van gegevens. Of je nou een auditfile hebt geüpload, of simpelweg een paar gegevens bent vergeten toe te voegen. Geen probleem. Powerall Online geeft je makkelijk de mogelijkheid om dit alsnog te doen voor verschillende soorten gegevens. Excel of CSV-bestanden met relaties, artikelen, serviceobjecten, debiteurs en crediteurs vallen in een paar stappen te importeren: Zorg dat je een Excel of CSV-bestand hebt met gegevens die aansluiten bij het desbetreffende overzicht. Navigeer naar het overzicht dat jij zoekt. Kan je het niet vinden? Raadpleeg dan de documentatie. Eenmaal in het overzicht aangekomen, druk op ‘IMPORTEER’. Upload je Excel of CSV-bestand. Selecteer bij jouw kolommen de juiste kolomnaam om de gegevens correct op te slaan. Druk rechts bovenin op ‘OPSLAAN’."
+  },
+  "quick-start/qs8.html": {
+    "href": "quick-start/qs8.html",
+    "title": "Het toevoegen en integreren van de bankrekening. | Powerall.Online.Documentatie",
+    "keywords": "Het toevoegen en integreren van de bankrekening. In Powerall Online heb je de mogelijkheid om je bankrekening te koppelen aan je financiën binnen Powerall Online. Dit doe je als volgt; Navigeer naar het Configuratie dashboard. Druk op ‘Bankrekeningen’ in het menu Financieel. Druk op de knop ‘TOEVOEGEN’. Voer vervolgens alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de IBAN, BIC en Grootboekrekening. Druk na invullen op ‘OPSLAAN’. Nu is je bankrekening gekoppeld en kun je transacties importeren en/of toeschrijven naar jouw rekening. Ook heb je de optie om de Klarna bankintegratie uit te voeren. Met de Klarna bankintegratie kunnen jouw banktransacties automatisch worden bijgewerkt in de financiële administratie. Op deze manier hoef je niet telkens handmatig in te loggen en telkens een bestand op te halen. Dit wordt via de bankintegratie namelijk automatisch gedaan. De bankintegratie voer je als volgt uit; Navigeer naar het Dashboard financieel. Druk op jouw ‘Bankrekening’ in Bankrekeningen. Druk rechts bovenin op ‘GEBRUIK DE BANKINTEGRATIE’. Druk vervolgens op ‘DOORGAAN’. Hierna word je doorverwezen naar je bank, waarna na enkele vervolgstappen je bankrekening en zijn transacties worden geïntegreerd. Note Let op: Na 90 dagen moet je opnieuw bij jouw bank inloggen, zodat Klarna toegang houdt tot jouw transacties."
+  },
+  "quick-start/qs9.html": {
+    "href": "quick-start/qs9.html",
+    "title": "Het aanmaken van de werkbon. | Powerall.Online.Documentatie",
+    "keywords": "Het aanmaken van de werkbon. De werkbon, het overzicht van materiaal en werkuren, is fijn om in te kunnen voeren. Gelukkig kan dit bij Powerall Online daarom ook heel simpel via ons servicedashboard; Navigeer naar het servicedashboard. Druk op ‘Nieuwe werkbon’ in het menu Werkbonnen. Voer alle gegevens die je voor handen hebt in. a. Verplichte gegevens zijn; de relatietype, referentie, BTW type en factuuradres. Druk rechts bovenin op de actiebutton ‘OPSLAAN’."
+  },
+  "quicklaunch/qk1.html": {
+    "href": "quicklaunch/qk1.html",
+    "title": "Quick Launch | Powerall.Online.Documentatie",
+    "keywords": "Quick Launch Je hebt 2 manieren om te zoeken in Powerall Online. Je hebt de zoekbalk bovenin je scherm, deze is gericht op relaties, artikelen, serviceobjecten en documenten, deze is dus bedoelt voor het zoeken van gegevens. De andere manier van zoeken is de Quick Launch, die jou naar je dashboard, taak of menu brengt, deze is bedoeld als snelle navigatie binnen Powerall Online. De Quick Launch bevind zich links onderin je scherm met het icoontje >_ . Ook is er een sneltoets voor Quick Launch beschikbaar: CTRL + SPATIE. Wanneer we het in deze gids hebben over navigeren, kan dit door zelf te navigeren of m.b.v. gebruik van de Quick Launch."
+  }
+}

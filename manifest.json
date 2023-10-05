@@ -1,0 +1,1842 @@
+{
+  "source_base_path": "/home/runner/work/deployment-template/deployment-template/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Algemeen/algwer1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Algemeen/algwer1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Algemeen/algwer2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Algemeen/algwer2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Algemeen/algwer3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Algemeen/algwer3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Algemeen/algwer4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Algemeen/algwer4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Artikelen/artken1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Artikelen/artken1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Artikelen/artken2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Artikelen/artken2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Artikelen/artken3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Artikelen/artken3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Artikelen/artomz1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Artikelen/artomz1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Artikelen/artomz2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Artikelen/artomz2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Artikelen/artomz3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Artikelen/artomz3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Artikelen/artomz4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Artikelen/artomz4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/Finban1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/Finban1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finaud1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finaud1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finaud2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finaud2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finaud3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finaud3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finaud4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finaud4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finban2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finban2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finban3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finban3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finban4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finban4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finbeg1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finbeg1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finbeg2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finbeg2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finbeg3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finbeg3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finbeg4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finbeg4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finbeg5.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finbeg5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finbet1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finbet1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finbet2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finbet2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finbet3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finbet3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finbet4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finbet4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/fingro1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/fingro1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/fingro2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/fingro2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/fingro3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/fingro3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/fingro4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/fingro4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/fingro5.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/fingro5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finkas1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finkas1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finkas2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finkas2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finkas3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finkas3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finkas4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finkas4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/finkas5.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/finkas5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/fintra1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/fintra1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Financieel/fintra2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Financieel/fintra2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Relaties/relken1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Relaties/relken1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Relaties/relken2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Relaties/relken2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Relaties/relken3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Relaties/relken3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Serviceobjecten/Serken1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Serviceobjecten/Serken1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Serviceobjecten/serken2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Serviceobjecten/serken2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Serviceobjecten/serken3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Serviceobjecten/serken3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Werkbonnen/Wertyp1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Werkbonnen/Wertyp1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Werkbonnen/wertyp2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Werkbonnen/wertyp2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/Werkbonnen/wertyp3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/Werkbonnen/wertyp3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/condash.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/condash.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/congeb1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/congeb1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/congeb2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/congeb2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/congeb3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/congeb3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/congeb4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/congeb4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conimport1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conimport1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conins1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conins1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conins2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conins2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conins3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conins3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conins4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conins4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conins5.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conins5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conins6.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conins6.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conins7.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conins7.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conins8.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conins8.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conins9.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conins9.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/coninst1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/coninst1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/coninst2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/coninst2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conlay1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conlay1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conlay2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conlay2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conlay3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conlay3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conlay4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conlay4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conmai1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conmai1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conmai2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conmai2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conmai3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conmai3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/conmai4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/conmai4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/connum1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/connum1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/connum2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/connum2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/configuratie/configuratie2/connum3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/configuratie/configuratie2/connum3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crediteur/cre1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crediteur/cre1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crediteur/cre10.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crediteur/cre10.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crediteur/cre11.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crediteur/cre11.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crediteur/cre2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crediteur/cre2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crediteur/cre3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crediteur/cre3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crediteur/cre4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crediteur/cre4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crediteur/cre5.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crediteur/cre5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crediteur/cre6.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crediteur/cre6.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crediteur/cre7.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crediteur/cre7.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crediteur/cre8.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crediteur/cre8.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crediteur/cre9.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crediteur/cre9.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crediteur/credash.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crediteur/credash.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crm/crm1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crm/crm1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crm/crm2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crm/crm2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crm/crm3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crm/crm3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crm/crm4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crm/crm4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crm/crm5.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crm/crm5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crm/crm6.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crm/crm6.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crm/crm7.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crm/crm7.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crm/crm8.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crm/crm8.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/crm/crmdash.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/crm/crmdash.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/debiteur/deb1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/debiteur/deb1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/debiteur/deb10.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/debiteur/deb10.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/debiteur/deb2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/debiteur/deb2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/debiteur/deb3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/debiteur/deb3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/debiteur/deb4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/debiteur/deb4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/debiteur/deb5.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/debiteur/deb5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/debiteur/deb6.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/debiteur/deb6.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/debiteur/deb7.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/debiteur/deb7.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/debiteur/deb8.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/debiteur/deb8.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/debiteur/deb9.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/debiteur/deb9.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/debiteur/debdash.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/debiteur/debdash.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin11.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin11.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin12.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin12.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin13.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin13.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin14.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin14.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin15.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin15.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin16.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin16.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin5.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin6.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin6.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin7.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin7.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin8.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin8.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/fin9.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/fin9.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/financieel/financieeldash.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/financieel/financieeldash.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/home/home1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/home/home1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/home/home2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/home/home2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/home/homedash.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/home/homedash.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/management/managementdash.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/management/managementdash.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/onderdelen/ond1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/onderdelen/ond1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/onderdelen/ond2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/onderdelen/ond2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/onderdelen/ond3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/onderdelen/ond3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/onderdelen/ond4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/onderdelen/ond4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/onderdelen/ond5.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/onderdelen/ond5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/onderdelen/onderdelendash.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/onderdelen/onderdelendash.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/orders/ord1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/orders/ord1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/orders/ord2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/orders/ord2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/orders/ord3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/orders/ord3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/orders/ordersdash.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/orders/ordersdash.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/service/ser1.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/service/ser1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/service/ser2.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/service/ser2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/service/ser3.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/service/ser3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/service/ser4.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/service/ser4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/service/ser5.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/service/ser5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/service/ser6.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/service/ser6.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dashboards/service/servicedash.md",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/service/servicedash.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "dashboards/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "dashboards/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Afbeelding1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Afbeelding1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Afbeelding10.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Afbeelding10.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Afbeelding11.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Afbeelding11.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Afbeelding12.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Afbeelding12.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Afbeelding2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Afbeelding2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Afbeelding4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Afbeelding4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Afbeelding5.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Afbeelding5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Afbeelding6.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Afbeelding6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Afbeelding7.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Afbeelding7.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Afbeelding8.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Afbeelding8.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Afbeelding9.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Afbeelding9.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/afbeelding3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/afbeelding3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/stapellogo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/stapellogo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "licenties/lic1.md",
+      "output": {
+        ".html": {
+          "relative_path": "licenties/lic1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "licenties/lic2.md",
+      "output": {
+        ".html": {
+          "relative_path": "licenties/lic2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "licenties/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "licenties/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "quick-start/Quick-start.md",
+      "output": {
+        ".html": {
+          "relative_path": "quick-start/Quick-start.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "quick-start/qs1.md",
+      "output": {
+        ".html": {
+          "relative_path": "quick-start/qs1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "quick-start/qs10.md",
+      "output": {
+        ".html": {
+          "relative_path": "quick-start/qs10.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "quick-start/qs11.md",
+      "output": {
+        ".html": {
+          "relative_path": "quick-start/qs11.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "quick-start/qs2.md",
+      "output": {
+        ".html": {
+          "relative_path": "quick-start/qs2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "quick-start/qs3.md",
+      "output": {
+        ".html": {
+          "relative_path": "quick-start/qs3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "quick-start/qs4.md",
+      "output": {
+        ".html": {
+          "relative_path": "quick-start/qs4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "quick-start/qs5.md",
+      "output": {
+        ".html": {
+          "relative_path": "quick-start/qs5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "quick-start/qs6.md",
+      "output": {
+        ".html": {
+          "relative_path": "quick-start/qs6.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "quick-start/qs7.md",
+      "output": {
+        ".html": {
+          "relative_path": "quick-start/qs7.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "quick-start/qs8.md",
+      "output": {
+        ".html": {
+          "relative_path": "quick-start/qs8.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "quick-start/qs9.md",
+      "output": {
+        ".html": {
+          "relative_path": "quick-start/qs9.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "quick-start/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "quick-start/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "quicklaunch/qk1.md",
+      "output": {
+        ".html": {
+          "relative_path": "quicklaunch/qk1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "quicklaunch/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "quicklaunch/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
