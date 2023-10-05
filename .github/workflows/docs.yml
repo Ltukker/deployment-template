@@ -26,7 +26,7 @@ jobs:
 
     - name: DocFX Build
       working-directory: docfx_project
-      run: docfx_project/docfx.json
+      run: docfx site\docfx.json
       continue-on-error: false
 
     - name: Publish
